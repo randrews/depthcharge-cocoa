@@ -18,7 +18,7 @@ class DepthChargeView <  OSX::NSView
 
 	self.images = {}
 	%w{island1 island2 island3 island4 mine missedMine}.each do |img|
-		path = OSX::NSBundle.mainBundle.pathForResource_ofType("images/#{img}", "jpg")
+		path = OSX::NSBundle.mainBundle.pathForResource_ofType(img, "jpg")
 		self.images[img] = OSX::NSImage.new.initWithContentsOfFile path
 	end
 
@@ -27,6 +27,7 @@ class DepthChargeView <  OSX::NSView
 
   def drawRect rect
 	draw_background rect
+	draw_islands rect
 	draw_grid rect
   end
 
@@ -54,5 +55,19 @@ class DepthChargeView <  OSX::NSView
   def draw_background rect
 	OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0, 0x60/256.0, 1.0).setFill
 	OSX::NSBezierPath::bezierPathWithRect(rect).fill
+  end
+  
+  def draw_islands rect
+	width=rect.size.width/12
+	height=rect.size.height/12
+	
+	@app_controller.game.islands.each do |island|
+		img=images[island[:name]];
+		img.drawAtPoint_fromRect_operation_fraction_(
+			OSX::NSPoint.new(width*island[:coord][:x], height*island[:coord][:y]),
+			OSX::NSZeroRect,
+			OSX::NSCompositeSourceOver,
+			1.0)
+	end
   end
 end

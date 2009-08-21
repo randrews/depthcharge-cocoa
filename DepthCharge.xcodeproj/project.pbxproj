@@ -22,6 +22,8 @@
 		A838F7F1103E44E900C25F12 /* mine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7EB103E44E900C25F12 /* mine.jpg */; };
 		A838F7F2103E44E900C25F12 /* missedMine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7EC103E44E900C25F12 /* missedMine.jpg */; };
 		A838F81D103E4DBA00C25F12 /* DepthChargeIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = A838F81C103E4DBA00C25F12 /* DepthChargeIcon.icns */; };
+		A838F821103E4FA800C25F12 /* DepthChargeGame.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */; };
+		A838F823103E591100C25F12 /* Util.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F822103E591100C25F12 /* Util.rb */; };
 		A8D966CA1033CB8600B029F2 /* AppController.rb in Resources */ = {isa = PBXBuildFile; fileRef = A8D966C91033CB8600B029F2 /* AppController.rb */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +45,8 @@
 		A838F7EB103E44E900C25F12 /* mine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mine.jpg; sourceTree = "<group>"; };
 		A838F7EC103E44E900C25F12 /* missedMine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = missedMine.jpg; sourceTree = "<group>"; };
 		A838F81C103E4DBA00C25F12 /* DepthChargeIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = DepthChargeIcon.icns; sourceTree = "<group>"; };
+		A838F820103E4FA800C25F12 /* DepthChargeGame.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = DepthChargeGame.rb; sourceTree = "<group>"; };
+		A838F822103E591100C25F12 /* Util.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = Util.rb; sourceTree = "<group>"; };
 		A8D966C91033CB8600B029F2 /* AppController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = AppController.rb; sourceTree = "<group>"; };
 		E8F5E24E03AEB6EC03A81C6F /* RubyCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RubyCocoa.framework; path = /System/Library/Frameworks/RubyCocoa.framework; sourceTree = "<absolute>"; };
 		E8F5E25803AEB7C803A81C6F /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				A838F724103E1FD300C25F12 /* DepthChargeView.rb */,
 				A8D966C91033CB8600B029F2 /* AppController.rb */,
 				A838F7B6103E36AF00C25F12 /* ColorButton.rb */,
+				A838F820103E4FA800C25F12 /* DepthChargeGame.rb */,
+				A838F822103E591100C25F12 /* Util.rb */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -123,7 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				A838F81C103E4DBA00C25F12 /* DepthChargeIcon.icns */,
-				A838F7E5103E449000C25F12 /* images */,
+				A838F8C6103E650500C25F12 /* images */,
 				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 			);
@@ -139,7 +145,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		A838F7E5103E449000C25F12 /* images */ = {
+		A838F8C6103E650500C25F12 /* images */ = {
 			isa = PBXGroup;
 			children = (
 				A838F7E7103E44E900C25F12 /* island1.jpg */,
@@ -219,6 +225,8 @@
 				A838F7F1103E44E900C25F12 /* mine.jpg in Resources */,
 				A838F7F2103E44E900C25F12 /* missedMine.jpg in Resources */,
 				A838F81D103E4DBA00C25F12 /* DepthChargeIcon.icns in Resources */,
+				A838F821103E4FA800C25F12 /* DepthChargeGame.rb in Resources */,
+				A838F823103E591100C25F12 /* Util.rb in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

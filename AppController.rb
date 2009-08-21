@@ -19,6 +19,8 @@ class AppController < OSX::NSObject
 	ib_action :dc_push
 	ib_action :mark_push
 
+	attr_accessor :game
+
 	def new_game
 		puts "New game"
 	end
@@ -37,5 +39,10 @@ class AppController < OSX::NSObject
 		@mark_blue.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0, 0x60/256.0, 1)
 		@mark_green.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0xa0/256.0, 0x60/256.0, 1)
 		@mark_orange.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0xb0/256.0, 0x80/256.0, 0x40/256.0, 1)
+		self.game = DepthChargeGame.new(self)
+	end
+	
+	def show_message str = ''
+		@status_label.setStringValue str
 	end
 end
