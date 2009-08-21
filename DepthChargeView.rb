@@ -19,7 +19,7 @@ class DepthChargeView <  OSX::NSView
 	self.images = {}
 	%w{island1 island2 island3 island4 mine missedMine}.each do |img|
 		path = OSX::NSBundle.mainBundle.pathForResource_ofType("images/#{img}", "jpg")
-		self.images[img] = OSX::NSImage.initWithContentsOfFile path
+		self.images[img] = OSX::NSImage.new.initWithContentsOfFile path
 	end
 
     self

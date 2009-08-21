@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 879}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 199}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = A8D966B91033CB6200B029F2 /* DepthCharge */;
@@ -214,6 +221,21 @@
 			A838F806103E469300C25F12 /* PBXTextBookmark */ = A838F806103E469300C25F12 /* PBXTextBookmark */;
 			A838F807103E46E500C25F12 /* PBXTextBookmark */ = A838F807103E46E500C25F12 /* PBXTextBookmark */;
 			A838F808103E477100C25F12 /* PBXTextBookmark */ = A838F808103E477100C25F12 /* PBXTextBookmark */;
+			A838F80C103E4A1100C25F12 /* PBXTextBookmark */ = A838F80C103E4A1100C25F12 /* PBXTextBookmark */;
+			A838F80D103E4A1100C25F12 /* PBXBookmark */ = A838F80D103E4A1100C25F12 /* PBXBookmark */;
+			A838F80E103E4A1100C25F12 /* PBXTextBookmark */ = A838F80E103E4A1100C25F12 /* PBXTextBookmark */;
+			A838F80F103E4A1100C25F12 /* PBXBookmark */ = A838F80F103E4A1100C25F12 /* PBXBookmark */;
+			A838F810103E4A1100C25F12 /* PBXTextBookmark */ = A838F810103E4A1100C25F12 /* PBXTextBookmark */;
+			A838F811103E4A1100C25F12 /* PBXBookmark */ = A838F811103E4A1100C25F12 /* PBXBookmark */;
+			A838F812103E4A1100C25F12 /* PBXTextBookmark */ = A838F812103E4A1100C25F12 /* PBXTextBookmark */;
+			A838F813103E4A1100C25F12 /* PlistBookmark */ = A838F813103E4A1100C25F12 /* PlistBookmark */;
+			A838F814103E4A1C00C25F12 /* PBXTextBookmark */ = A838F814103E4A1C00C25F12 /* PBXTextBookmark */;
+			A838F815103E4A1C00C25F12 /* PlistBookmark */ = A838F815103E4A1C00C25F12 /* PlistBookmark */;
+			A838F817103E4A2D00C25F12 /* PlistBookmark */ = A838F817103E4A2D00C25F12 /* PlistBookmark */;
+			A838F818103E4A2D00C25F12 /* PBXTextBookmark */ = A838F818103E4A2D00C25F12 /* PBXTextBookmark */;
+			A838F819103E4A2D00C25F12 /* PlistBookmark */ = A838F819103E4A2D00C25F12 /* PlistBookmark */;
+			A838F81A103E4A2D00C25F12 /* PBXTextBookmark */ = A838F81A103E4A2D00C25F12 /* PBXTextBookmark */;
+			A838F81B103E4A2D00C25F12 /* PBXTextBookmark */ = A838F81B103E4A2D00C25F12 /* PBXTextBookmark */;
 			A8D966ED1033D42700B029F2 = A8D966ED1033D42700B029F2 /* PBXTextBookmark */;
 			A8D966EE1033D42700B029F2 = A8D966EE1033D42700B029F2 /* PBXTextBookmark */;
 		};
@@ -240,8 +262,8 @@
 	A838F724103E1FD300C25F12 /* DepthChargeView.rb */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1533, 879}}";
-			sepNavSelRange = "{475, 0}";
-			sepNavVisRange = "{0, 1255}";
+			sepNavSelRange = "{506, 0}";
+			sepNavVisRange = "{0, 1259}";
 			sepNavWindowFrame = "{{68, 130}, {1125, 923}}";
 		};
 	};
@@ -330,7 +352,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -350,7 +372,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -360,7 +382,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -380,7 +402,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 220;
 		vrLoc = 190;
@@ -390,7 +412,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -410,7 +432,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -420,7 +442,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 224;
 		vrLoc = 191;
@@ -430,7 +452,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 617;
+		rLoc = 621;
 		rType = 0;
 		vrLen = 224;
 		vrLoc = 191;
@@ -440,7 +462,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 617;
+		rLoc = 621;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -470,7 +492,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 617;
+		rLoc = 621;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -490,7 +512,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -510,7 +532,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 153;
@@ -520,7 +542,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -530,7 +552,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -550,7 +572,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -577,7 +599,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -597,7 +619,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -617,7 +639,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -637,7 +659,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 430;
 		vrLoc = 0;
@@ -657,7 +679,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 432;
 		vrLoc = 0;
@@ -677,7 +699,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 437;
 		vrLoc = 0;
@@ -697,7 +719,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 247;
 		vrLoc = 190;
@@ -707,7 +729,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -717,7 +739,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -727,7 +749,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -737,7 +759,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 494;
 		vrLoc = 0;
@@ -747,7 +769,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -757,7 +779,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 509;
 		vrLoc = 0;
@@ -767,7 +789,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 702;
+		rLoc = 706;
 		rType = 0;
 		vrLen = 462;
 		vrLoc = 0;
@@ -777,7 +799,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 705;
 		rType = 0;
 		vrLen = 319;
 		vrLoc = 191;
@@ -787,7 +809,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 639;
+		rLoc = 643;
 		rType = 0;
 		vrLen = 271;
 		vrLoc = 191;
@@ -797,7 +819,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 32";
 		rLen = 0;
-		rLoc = 773;
+		rLoc = 777;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 0;
@@ -807,7 +829,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 801;
+		rLoc = 805;
 		rType = 0;
 		vrLen = 773;
 		vrLoc = 0;
@@ -817,7 +839,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 35";
 		rLen = 0;
-		rLoc = 848;
+		rLoc = 852;
 		rType = 0;
 		vrLen = 822;
 		vrLoc = 0;
@@ -827,7 +849,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 899;
+		rLoc = 903;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 0;
@@ -837,7 +859,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 920;
+		rLoc = 924;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -847,7 +869,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 34";
 		rLen = 0;
-		rLoc = 812;
+		rLoc = 816;
 		rType = 0;
 		vrLen = 846;
 		vrLoc = 0;
@@ -857,7 +879,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 19";
 		rLen = 0;
-		rLoc = 571;
+		rLoc = 575;
 		rType = 0;
 		vrLen = 752;
 		vrLoc = 0;
@@ -867,7 +889,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 19";
 		rLen = 0;
-		rLoc = 571;
+		rLoc = 575;
 		rType = 0;
 		vrLen = 243;
 		vrLoc = 297;
@@ -877,7 +899,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 815;
 		rType = 0;
 		vrLen = 763;
 		vrLoc = 0;
@@ -887,7 +909,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 815;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -897,7 +919,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1001;
+		rLoc = 1005;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -907,7 +929,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1001;
+		rLoc = 1005;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -917,7 +939,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 940;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -927,7 +949,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 940;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -937,7 +959,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 940;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -947,7 +969,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 20";
 		rLen = 0;
-		rLoc = 604;
+		rLoc = 608;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -957,7 +979,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 999;
 		rType = 0;
 		vrLen = 794;
 		vrLoc = 0;
@@ -967,7 +989,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 999;
 		rType = 0;
 		vrLen = 794;
 		vrLoc = 0;
@@ -977,7 +999,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 999;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -987,7 +1009,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 999;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 0;
@@ -997,7 +1019,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 999;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1007,7 +1029,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 862;
+		rLoc = 866;
 		rType = 0;
 		vrLen = 349;
 		vrLoc = 460;
@@ -1017,7 +1039,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 862;
+		rLoc = 866;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1027,7 +1049,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 46";
 		rLen = 0;
-		rLoc = 1250;
+		rLoc = 1254;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 0;
@@ -1037,7 +1059,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 594;
+		rLoc = 598;
 		rType = 0;
 		vrLen = 1007;
 		vrLoc = 0;
@@ -1047,7 +1069,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 594;
+		rLoc = 598;
 		rType = 0;
 		vrLen = 1007;
 		vrLoc = 0;
@@ -1057,7 +1079,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 594;
+		rLoc = 598;
 		rType = 0;
 		vrLen = 348;
 		vrLoc = 469;
@@ -1067,7 +1089,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 698;
+		rLoc = 702;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1077,7 +1099,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 698;
+		rLoc = 702;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1087,7 +1109,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 698;
+		rLoc = 702;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1097,7 +1119,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 26";
 		rLen = 0;
-		rLoc = 716;
+		rLoc = 720;
 		rType = 0;
 		vrLen = 307;
 		vrLoc = 359;
@@ -1107,7 +1129,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 664;
+		rLoc = 668;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1127,7 +1149,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 664;
+		rLoc = 668;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1137,7 +1159,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 664;
+		rLoc = 668;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1194,7 +1216,7 @@
 	};
 	A838F7B6103E36AF00C25F12 /* ColorButton.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1533, 879}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 856}}";
 			sepNavSelRange = "{567, 0}";
 			sepNavVisRange = "{0, 616}";
 		};
@@ -1324,7 +1346,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 27";
 		rLen = 0;
-		rLoc = 716;
+		rLoc = 720;
 		rType = 0;
 		vrLen = 262;
 		vrLoc = 324;
@@ -1719,7 +1741,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 20";
 		rLen = 0;
-		rLoc = 535;
+		rLoc = 539;
 		rType = 0;
 		vrLen = 1143;
 		vrLoc = 0;
@@ -1742,6 +1764,153 @@
 		rLoc = 475;
 		rType = 0;
 		vrLen = 1255;
+		vrLoc = 0;
+	};
+	A838F809103E49CB00C25F12 /* DepthChargeIcon.icns */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.icns;
+		name = DepthChargeIcon.icns;
+		path = /Users/randrews/Desktop/DepthCharge/DepthChargeIcon.icns;
+		sourceTree = "<absolute>";
+	};
+	A838F80C103E4A1100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 22";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 0;
+	};
+	A838F80D103E4A1100C25F12 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A838F809103E49CB00C25F12 /* DepthChargeIcon.icns */;
+	};
+	A838F80E103E4A1100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 6";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	A838F80F103E4A1100C25F12 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4DDCA7110ACC9A6100E082CE /* Info.plist */;
+	};
+	A838F810103E4A1100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 22";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 0;
+	};
+	A838F811103E4A1100C25F12 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A838F809103E49CB00C25F12 /* DepthChargeIcon.icns */;
+	};
+	A838F812103E4A1100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 6";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	A838F813103E4A1100C25F12 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4DDCA7110ACC9A6100E082CE /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = /Users/randrews/Desktop/DepthCharge/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	A838F814103E4A1C00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 21";
+		rLen = 0;
+		rLoc = 396;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 152;
+	};
+	A838F815103E4A1C00C25F12 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4DDCA7110ACC9A6100E082CE /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = /Users/randrews/Desktop/DepthCharge/Info.plist;
+		rLen = 3;
+		rLoc = 0;
+	};
+	A838F817103E4A2D00C25F12 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4DDCA7110ACC9A6100E082CE /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = /Users/randrews/Desktop/DepthCharge/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	A838F818103E4A2D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F7B6103E36AF00C25F12 /* ColorButton.rb */;
+		name = "ColorButton.rb: 29";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	A838F819103E4A2D00C25F12 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4DDCA7110ACC9A6100E082CE /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = /Users/randrews/Desktop/DepthCharge/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	A838F81A103E4A2D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F7B6103E36AF00C25F12 /* ColorButton.rb */;
+		name = "ColorButton.rb: 29";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	A838F81B103E4A2D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 22";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 1259;
 		vrLoc = 0;
 	};
 	A8D966B91033CB6200B029F2 /* DepthCharge */ = {
