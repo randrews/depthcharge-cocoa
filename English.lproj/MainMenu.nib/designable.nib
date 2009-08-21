@@ -312,28 +312,28 @@
 								<reference key="NSTextColor" ref="102079395"/>
 							</object>
 						</object>
-						<object class="NSCustomView" id="573826370">
+						<object class="NSCustomView" id="52212761">
 							<reference key="NSNextResponder" ref="414427165"/>
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{13, 108}, {384, 384}}</string>
 							<reference key="NSSuperview" ref="414427165"/>
 							<string key="NSClassName">DepthChargeView</string>
 						</object>
-						<object class="NSCustomView" id="943999901">
+						<object class="NSCustomView" id="3629494">
 							<reference key="NSNextResponder" ref="414427165"/>
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{193, 41}, {24, 24}}</string>
 							<reference key="NSSuperview" ref="414427165"/>
 							<string key="NSClassName">ColorButton</string>
 						</object>
-						<object class="NSCustomView" id="821110315">
+						<object class="NSCustomView" id="137028829">
 							<reference key="NSNextResponder" ref="414427165"/>
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{225, 41}, {24, 24}}</string>
 							<reference key="NSSuperview" ref="414427165"/>
 							<string key="NSClassName">ColorButton</string>
 						</object>
-						<object class="NSCustomView" id="1052608817">
+						<object class="NSCustomView" id="184746420">
 							<reference key="NSNextResponder" ref="414427165"/>
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{161, 41}, {24, 24}}</string>
@@ -468,14 +468,14 @@
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">depth_charge_view</string>
 						<reference key="source" ref="779136828"/>
-						<reference key="destination" ref="573826370"/>
+						<reference key="destination" ref="52212761"/>
 					</object>
 					<int key="connectionID">397</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">app_controller</string>
-						<reference key="source" ref="573826370"/>
+						<reference key="source" ref="52212761"/>
 						<reference key="destination" ref="779136828"/>
 					</object>
 					<int key="connectionID">398</int>
@@ -484,7 +484,7 @@
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">mark_blue</string>
 						<reference key="source" ref="779136828"/>
-						<reference key="destination" ref="1052608817"/>
+						<reference key="destination" ref="184746420"/>
 					</object>
 					<int key="connectionID">402</int>
 				</object>
@@ -492,7 +492,7 @@
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">mark_green</string>
 						<reference key="source" ref="779136828"/>
-						<reference key="destination" ref="943999901"/>
+						<reference key="destination" ref="3629494"/>
 					</object>
 					<int key="connectionID">403</int>
 				</object>
@@ -500,17 +500,33 @@
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">mark_orange</string>
 						<reference key="source" ref="779136828"/>
-						<reference key="destination" ref="821110315"/>
+						<reference key="destination" ref="137028829"/>
 					</object>
 					<int key="connectionID">404</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">app_controller</string>
-						<reference key="source" ref="821110315"/>
+						<reference key="source" ref="137028829"/>
 						<reference key="destination" ref="779136828"/>
 					</object>
 					<int key="connectionID">405</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBOutletConnection" key="connection">
+						<string key="label">app_controller</string>
+						<reference key="source" ref="184746420"/>
+						<reference key="destination" ref="779136828"/>
+					</object>
+					<int key="connectionID">407</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBOutletConnection" key="connection">
+						<string key="label">app_controller</string>
+						<reference key="source" ref="3629494"/>
+						<reference key="destination" ref="779136828"/>
+					</object>
+					<int key="connectionID">408</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -637,10 +653,10 @@
 							<reference ref="16534800"/>
 							<reference ref="51738531"/>
 							<reference ref="123348766"/>
-							<reference ref="573826370"/>
-							<reference ref="943999901"/>
-							<reference ref="821110315"/>
-							<reference ref="1052608817"/>
+							<reference ref="52212761"/>
+							<reference ref="3629494"/>
+							<reference ref="137028829"/>
+							<reference ref="184746420"/>
 						</object>
 						<reference key="parent" ref="513744381"/>
 					</object>
@@ -764,22 +780,22 @@
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">396</int>
-						<reference key="object" ref="573826370"/>
+						<reference key="object" ref="52212761"/>
 						<reference key="parent" ref="414427165"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">399</int>
-						<reference key="object" ref="943999901"/>
+						<reference key="object" ref="3629494"/>
 						<reference key="parent" ref="414427165"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">400</int>
-						<reference key="object" ref="821110315"/>
+						<reference key="object" ref="137028829"/>
 						<reference key="parent" ref="414427165"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">401</int>
-						<reference key="object" ref="1052608817"/>
+						<reference key="object" ref="184746420"/>
 						<reference key="parent" ref="414427165"/>
 					</object>
 				</object>
@@ -945,7 +961,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">406</int>
+			<int key="maxID">408</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">

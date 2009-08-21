@@ -25,6 +25,7 @@ class ColorButton <  OSX::NSView
 	  path.fill
 	  if highlighted
 		OSX::NSColor.yellowColor.setStroke
+		path.setLineWidth 3.0
 	  else
 	    OSX::NSColor.grayColor.setStroke
 	  end
@@ -32,4 +33,7 @@ class ColorButton <  OSX::NSView
 	end
   end
 
+  def mouseDown event
+	@app_controller.push_mark_button self
+  end
 end

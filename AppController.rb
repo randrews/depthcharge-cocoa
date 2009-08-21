@@ -34,6 +34,16 @@ class AppController < OSX::NSObject
 			end
 		end
 	end
+
+	def push_mark_button button
+		[@mark_blue, @mark_green, @mark_orange].each{|b| b.highlighted = false}
+		button.highlighted = true
+		[@mark_blue, @mark_green, @mark_orange].each{|b| b.setNeedsDisplay true}
+		
+		@mark_button.setState 1
+		@ping_button.setState 0
+		@dc_button.setState 0
+	end
 	
 	def awakeFromNib
 		@mark_blue.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0, 0x60/256.0, 1)
