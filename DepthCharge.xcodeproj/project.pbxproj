@@ -13,6 +13,14 @@
 		4DDCA70A0ACC9A6100E082CE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		4DDCA70C0ACC9A6100E082CE /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		4DDCA70D0ACC9A6100E082CE /* RubyCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8F5E24E03AEB6EC03A81C6F /* RubyCocoa.framework */; };
+		A838F725103E1FD300C25F12 /* DepthChargeView.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */; };
+		A838F7B7103E36AF00C25F12 /* ColorButton.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F7B6103E36AF00C25F12 /* ColorButton.rb */; };
+		A838F7ED103E44E900C25F12 /* island1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7E7103E44E900C25F12 /* island1.jpg */; };
+		A838F7EE103E44E900C25F12 /* island2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7E8103E44E900C25F12 /* island2.jpg */; };
+		A838F7EF103E44E900C25F12 /* island3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7E9103E44E900C25F12 /* island3.jpg */; };
+		A838F7F0103E44E900C25F12 /* island4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7EA103E44E900C25F12 /* island4.jpg */; };
+		A838F7F1103E44E900C25F12 /* mine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7EB103E44E900C25F12 /* mine.jpg */; };
+		A838F7F2103E44E900C25F12 /* missedMine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A838F7EC103E44E900C25F12 /* missedMine.jpg */; };
 		A8D966CA1033CB8600B029F2 /* AppController.rb in Resources */ = {isa = PBXBuildFile; fileRef = A8D966C91033CB8600B029F2 /* AppController.rb */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +33,14 @@
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		4DDCA7110ACC9A6100E082CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DDCA7120ACC9A6100E082CE /* DepthCharge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DepthCharge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A838F724103E1FD300C25F12 /* DepthChargeView.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = DepthChargeView.rb; sourceTree = "<group>"; };
+		A838F7B6103E36AF00C25F12 /* ColorButton.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = ColorButton.rb; sourceTree = "<group>"; };
+		A838F7E7103E44E900C25F12 /* island1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = island1.jpg; sourceTree = "<group>"; };
+		A838F7E8103E44E900C25F12 /* island2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = island2.jpg; sourceTree = "<group>"; };
+		A838F7E9103E44E900C25F12 /* island3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = island3.jpg; sourceTree = "<group>"; };
+		A838F7EA103E44E900C25F12 /* island4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = island4.jpg; sourceTree = "<group>"; };
+		A838F7EB103E44E900C25F12 /* mine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mine.jpg; sourceTree = "<group>"; };
+		A838F7EC103E44E900C25F12 /* missedMine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = missedMine.jpg; sourceTree = "<group>"; };
 		A8D966C91033CB8600B029F2 /* AppController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = AppController.rb; sourceTree = "<group>"; };
 		E8F5E24E03AEB6EC03A81C6F /* RubyCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RubyCocoa.framework; path = /System/Library/Frameworks/RubyCocoa.framework; sourceTree = "<absolute>"; };
 		E8F5E25803AEB7C803A81C6F /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
@@ -46,6 +62,9 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				A838F724103E1FD300C25F12 /* DepthChargeView.rb */,
+				A8D966C91033CB8600B029F2 /* AppController.rb */,
+				A838F7B6103E36AF00C25F12 /* ColorButton.rb */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -79,7 +98,6 @@
 		29B97314FDCFA39411CA2CEA /* DepthCharge */ = {
 			isa = PBXGroup;
 			children = (
-				A8D966C91033CB8600B029F2 /* AppController.rb */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -102,6 +120,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A838F7E5103E449000C25F12 /* images */,
 				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 			);
@@ -115,6 +134,19 @@
 				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A838F7E5103E449000C25F12 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				A838F7E7103E44E900C25F12 /* island1.jpg */,
+				A838F7E8103E44E900C25F12 /* island2.jpg */,
+				A838F7E9103E44E900C25F12 /* island3.jpg */,
+				A838F7EA103E44E900C25F12 /* island4.jpg */,
+				A838F7EB103E44E900C25F12 /* mine.jpg */,
+				A838F7EC103E44E900C25F12 /* missedMine.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -175,6 +207,14 @@
 				4DDCA7070ACC9A6100E082CE /* InfoPlist.strings in Resources */,
 				4DDCA7080ACC9A6100E082CE /* rb_main.rb in Resources */,
 				A8D966CA1033CB8600B029F2 /* AppController.rb in Resources */,
+				A838F725103E1FD300C25F12 /* DepthChargeView.rb in Resources */,
+				A838F7B7103E36AF00C25F12 /* ColorButton.rb in Resources */,
+				A838F7ED103E44E900C25F12 /* island1.jpg in Resources */,
+				A838F7EE103E44E900C25F12 /* island2.jpg in Resources */,
+				A838F7EF103E44E900C25F12 /* island3.jpg in Resources */,
+				A838F7F0103E44E900C25F12 /* island4.jpg in Resources */,
+				A838F7F1103E44E900C25F12 /* mine.jpg in Resources */,
+				A838F7F2103E44E900C25F12 /* missedMine.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
