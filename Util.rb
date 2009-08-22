@@ -172,4 +172,9 @@ function rand(number) {
 		  :coord => coord }
 	end
 
+	def findSpaceIn coord, spaces
+		spaces.find do |s|
+			s[:coord][:x]==coord[:x] and s[:coord][:y]==coord[:y]
+		end
+	end
 end

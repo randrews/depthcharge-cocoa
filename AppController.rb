@@ -31,6 +31,14 @@ class AppController < OSX::NSObject
 			if button.state==1
 				[@ping_button, @dc_button, @mark_button].each{|b| b.setState(0)}
 				button.setState(1)
+
+				case name
+				when :ping_push ; game.status[:clickMode] = :ping
+				when :dc_push ; game.status[:clickMode] = :dcharge
+				when :mark_push ; game.status[:clickMode] = :mark
+				end
+			else
+				game.status[:clickMode] = nil
 			end
 		end
 	end
@@ -43,6 +51,9 @@ class AppController < OSX::NSObject
 		@mark_button.setState 1
 		@ping_button.setState 0
 		@dc_button.setState 0
+		
+		game.status[:markMode] = button.color
+		game.status[:clickMode] = :mark
 	end
 	
 	def awakeFromNib
@@ -54,5 +65,11 @@ class AppController < OSX::NSObject
 	
 	def show_message str = ''
 		@status_label.setStringValue str
+	end
+	
+	def handle_click x, y # These are board coordinates, 0..11
+		game.onMapClick(:x => x, :y => y)
+		puts game.inspect
+		@depth_charge_view.setNeedsDisplay true
 	end
 end

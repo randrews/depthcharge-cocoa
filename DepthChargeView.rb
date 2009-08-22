@@ -28,11 +28,19 @@ class DepthChargeView <  OSX::NSView
   def drawRect rect
 	draw_background rect
 	draw_islands rect
+	draw_marks rect
 	draw_grid rect
   end
 
   def mouseDown event
-	OSX::NSLog convertPoint_fromView_(event.locationInWindow, nil).inspect
+	point = convertPoint_fromView_(event.locationInWindow, nil)
+	
+	x = (point.x * 12 / bounds.size.width).floor
+	y = (point.y * 12 / bounds.size.height).floor
+	
+	y = 11 - y # Cocoa coords are bottom-to-top
+	
+	@app_controller.handle_click x, y
   end
   
   private
@@ -64,10 +72,25 @@ class DepthChargeView <  OSX::NSView
 	@app_controller.game.islands.each do |island|
 		img=images[island[:name]];
 		img.drawAtPoint_fromRect_operation_fraction_(
-			OSX::NSPoint.new(width*island[:coord][:x], height*island[:coord][:y]),
+			OSX::NSPoint.new(width*island[:coord][:x], height*(11 - island[:coord][:y])),
 			OSX::NSZeroRect,
 			OSX::NSCompositeSourceOver,
 			1.0)
+	end
+  end
+  
+  def draw_marks rect
+	width=rect.size.width/12;
+	height=rect.size.height/12;
+
+	@app_controller.game.marks.each do |mark|
+		mark[:color].setFill
+		
+		mrect = OSX::NSRect.new(width*mark[:coord][:x],
+								height*(11 - mark[:coord][:y]),
+								width,
+								height)
+		OSX::NSRectFill mrect
 	end
   end
 end

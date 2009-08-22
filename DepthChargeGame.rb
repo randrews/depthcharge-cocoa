@@ -47,4 +47,39 @@ class DepthChargeGame
 		end
 	end
 
+	def onMapClick coord
+		return if status[:ignoreClicks]
+		
+		case status[:clickMode]
+		when :ping
+			ping_click coord
+		when :mark
+			mark_click coord
+		when :dcharge
+			dcharge_click coord
+		end
+	end
+	
+	def ping_click
+	end
+
+	def mark_click coord
+		col = status[:markMode]
+		if !col.nil? and !findSpaceIn(coord,islands)
+			mark = findSpaceIn(coord,marks)
+
+			if mark.nil?
+				marks << {:color => col, :coord => coord}
+			else
+				if mark[:color]==col
+					mark[:color]=OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0, 0x60/256.0, 1)
+				else
+					mark[:color]=col
+				end
+			end
+		end
+	end
+
+	def dcharge_click
+	end
 end
