@@ -280,7 +280,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
+									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -321,7 +321,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>A8D966DF1033D42700B029F2</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>AppController.rb</string>
+								<string>DepthChargeView.rb</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -329,11 +329,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>A8D966E01033D42700B029F2</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>AppController.rb</string>
+										<string>DepthChargeView.rb</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A838FA22103FD4C500C25F12</string>
+										<string>A838FA5910407D8F00C25F12</string>
 										<key>history</key>
 										<array>
 											<string>A838F80E103E4A1100C25F12</string>
@@ -346,10 +346,11 @@
 											<string>A838F82A103E5C9000C25F12</string>
 											<string>A838F8C8103E658800C25F12</string>
 											<string>A838F8FE103F76DA00C25F12</string>
-											<string>A838F9CE103FBBE600C25F12</string>
 											<string>A838FA18103FD08500C25F12</string>
 											<string>A838FA1E103FD3C000C25F12</string>
-											<string>A838F9D9103FC82600C25F12</string>
+											<string>A838FA251040609800C25F12</string>
+											<string>A838FA261040609800C25F12</string>
+											<string>A838FA4510407BB600C25F12</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -457,6 +458,9 @@
 											<string>A838FA12103FD05400C25F12</string>
 											<string>A838FA1A103FD08500C25F12</string>
 											<string>A838FA1F103FD3C000C25F12</string>
+											<string>A838FA281040609800C25F12</string>
+											<string>A838FA291040609800C25F12</string>
+											<string>A838FA2A1040609800C25F12</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -767,6 +771,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>A838FA3010406E2300C25F12</string>
 		<string>A838F743103E21BE00C25F12</string>
 		<string>A838F744103E21BE00C25F12</string>
 		<string>/Users/randrews/Desktop/DepthCharge/DepthCharge.xcodeproj</string>
@@ -1557,33 +1562,40 @@
 			<string>597 125 616 374 0 0 1280 1002 </string>
 		</dict>
 		<dict>
+			<key>FirstTimeWindowDisplayed</key>
+			<false/>
 			<key>Identifier</key>
 			<string>windowTool.refactoring</string>
 			<key>IncludeInToolsMenu</key>
 			<integer>0</integer>
+			<key>IsVertical</key>
+			<true/>
 			<key>Layout</key>
 			<array>
 				<dict>
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<integer>1</integer>
+							<key>ContentConfiguration</key>
+							<dict>
+								<key>PBXProjectModuleGUID</key>
+								<string>A838FA2F10406E2300C25F12</string>
+							</dict>
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{0, 0}, {500, 335}</string>
+								<string>{{0, 0}, {500, 315}}</string>
 								<key>RubberWindowFrame</key>
-								<string>{0, 0}, {500, 335}</string>
+								<string>94 679 500 356 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCRefactoringModule</string>
 							<key>Proportion</key>
-							<string>100%</string>
+							<string>315pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>100%</string>
+					<string>315pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -1592,8 +1604,20 @@
 			<array>
 				<string>XCRefactoringModule</string>
 			</array>
+			<key>StatusbarIsVisible</key>
+			<true/>
+			<key>TableOfContents</key>
+			<array>
+				<string>A838FA3010406E2300C25F12</string>
+				<string>A838FA3110406E2300C25F12</string>
+				<string>A838FA2F10406E2300C25F12</string>
+			</array>
 			<key>WindowString</key>
-			<string>200 200 500 356 0 0 1920 1200 </string>
+			<string>94 679 500 356 0 0 1920 1058 </string>
+			<key>WindowToolGUID</key>
+			<string>A838FA3010406E2300C25F12</string>
+			<key>WindowToolIsVisible</key>
+			<false/>
 		</dict>
 	</array>
 </dict>

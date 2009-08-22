@@ -24,6 +24,7 @@
 		A838F81D103E4DBA00C25F12 /* DepthChargeIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = A838F81C103E4DBA00C25F12 /* DepthChargeIcon.icns */; };
 		A838F821103E4FA800C25F12 /* DepthChargeGame.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */; };
 		A838F823103E591100C25F12 /* Util.rb in Resources */ = {isa = PBXBuildFile; fileRef = A838F822103E591100C25F12 /* Util.rb */; };
+		A838FA24103FD69600C25F12 /* font.png in Resources */ = {isa = PBXBuildFile; fileRef = A838FA23103FD69600C25F12 /* font.png */; };
 		A8D966CA1033CB8600B029F2 /* AppController.rb in Resources */ = {isa = PBXBuildFile; fileRef = A8D966C91033CB8600B029F2 /* AppController.rb */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +48,7 @@
 		A838F81C103E4DBA00C25F12 /* DepthChargeIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = DepthChargeIcon.icns; sourceTree = "<group>"; };
 		A838F820103E4FA800C25F12 /* DepthChargeGame.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = DepthChargeGame.rb; sourceTree = "<group>"; };
 		A838F822103E591100C25F12 /* Util.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = Util.rb; sourceTree = "<group>"; };
+		A838FA23103FD69600C25F12 /* font.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = font.png; path = ../../Downloads/DepthCharge.wdgt/font.png; sourceTree = SOURCE_ROOT; };
 		A8D966C91033CB8600B029F2 /* AppController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = AppController.rb; sourceTree = "<group>"; };
 		E8F5E24E03AEB6EC03A81C6F /* RubyCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RubyCocoa.framework; path = /System/Library/Frameworks/RubyCocoa.framework; sourceTree = "<absolute>"; };
 		E8F5E25803AEB7C803A81C6F /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 		A838F8C6103E650500C25F12 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				A838FA23103FD69600C25F12 /* font.png */,
 				A838F7E7103E44E900C25F12 /* island1.jpg */,
 				A838F7E8103E44E900C25F12 /* island2.jpg */,
 				A838F7E9103E44E900C25F12 /* island3.jpg */,
@@ -227,6 +230,7 @@
 				A838F81D103E4DBA00C25F12 /* DepthChargeIcon.icns in Resources */,
 				A838F821103E4FA800C25F12 /* DepthChargeGame.rb in Resources */,
 				A838F823103E591100C25F12 /* Util.rb in Resources */,
+				A838FA24103FD69600C25F12 /* font.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
