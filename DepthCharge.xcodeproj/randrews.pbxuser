@@ -575,6 +575,69 @@
 			A838F9CF103FBBE600C25F12 /* PBXTextBookmark */ = A838F9CF103FBBE600C25F12 /* PBXTextBookmark */;
 			A838F9D0103FBBE600C25F12 /* PBXTextBookmark */ = A838F9D0103FBBE600C25F12 /* PBXTextBookmark */;
 			A838F9D2103FBC1200C25F12 /* PBXTextBookmark */ = A838F9D2103FBC1200C25F12 /* PBXTextBookmark */;
+			A838F9D4103FC0E800C25F12 /* PBXTextBookmark */ = A838F9D4103FC0E800C25F12 /* PBXTextBookmark */;
+			A838F9D5103FC0E800C25F12 /* PBXTextBookmark */ = A838F9D5103FC0E800C25F12 /* PBXTextBookmark */;
+			A838F9D6103FC0E800C25F12 /* PBXTextBookmark */ = A838F9D6103FC0E800C25F12 /* PBXTextBookmark */;
+			A838F9D8103FC0F400C25F12 /* PBXTextBookmark */ = A838F9D8103FC0F400C25F12 /* PBXTextBookmark */;
+			A838F9D9103FC82600C25F12 /* PBXTextBookmark */ = A838F9D9103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DA103FC82600C25F12 /* PBXTextBookmark */ = A838F9DA103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DB103FC82600C25F12 /* PBXTextBookmark */ = A838F9DB103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DC103FC82600C25F12 /* PBXTextBookmark */ = A838F9DC103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DD103FC82600C25F12 /* PBXTextBookmark */ = A838F9DD103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DE103FC82600C25F12 /* PBXTextBookmark */ = A838F9DE103FC82600C25F12 /* PBXTextBookmark */;
+			A838F9DF103FC83F00C25F12 /* PBXTextBookmark */ = A838F9DF103FC83F00C25F12 /* PBXTextBookmark */;
+			A838F9E0103FC89100C25F12 /* PBXTextBookmark */ = A838F9E0103FC89100C25F12 /* PBXTextBookmark */;
+			A838F9E1103FCA7800C25F12 /* PBXTextBookmark */ = A838F9E1103FCA7800C25F12 /* PBXTextBookmark */;
+			A838F9E3103FCD1A00C25F12 /* PBXTextBookmark */ = A838F9E3103FCD1A00C25F12 /* PBXTextBookmark */;
+			A838F9E4103FCD2000C25F12 /* PBXTextBookmark */ = A838F9E4103FCD2000C25F12 /* PBXTextBookmark */;
+			A838F9E5103FCD2000C25F12 /* PBXTextBookmark */ = A838F9E5103FCD2000C25F12 /* PBXTextBookmark */;
+			A838F9E7103FCD2C00C25F12 /* PBXTextBookmark */ = A838F9E7103FCD2C00C25F12 /* PBXTextBookmark */;
+			A838F9E8103FCD3200C25F12 /* PBXTextBookmark */ = A838F9E8103FCD3200C25F12 /* PBXTextBookmark */;
+			A838F9E9103FCD3B00C25F12 /* PBXTextBookmark */ = A838F9E9103FCD3B00C25F12 /* PBXTextBookmark */;
+			A838F9EA103FCD5000C25F12 /* PBXTextBookmark */ = A838F9EA103FCD5000C25F12 /* PBXTextBookmark */;
+			A838F9EC103FCDA000C25F12 /* PBXTextBookmark */ = A838F9EC103FCDA000C25F12 /* PBXTextBookmark */;
+			A838F9ED103FCDA500C25F12 /* PBXTextBookmark */ = A838F9ED103FCDA500C25F12 /* PBXTextBookmark */;
+			A838F9EE103FCDAE00C25F12 /* PBXTextBookmark */ = A838F9EE103FCDAE00C25F12 /* PBXTextBookmark */;
+			A838F9F0103FCDC100C25F12 /* PBXTextBookmark */ = A838F9F0103FCDC100C25F12 /* PBXTextBookmark */;
+			A838F9F1103FCDC600C25F12 /* PBXTextBookmark */ = A838F9F1103FCDC600C25F12 /* PBXTextBookmark */;
+			A838F9F2103FCDD100C25F12 /* PBXTextBookmark */ = A838F9F2103FCDD100C25F12 /* PBXTextBookmark */;
+			A838F9F4103FCE3600C25F12 /* PBXTextBookmark */ = A838F9F4103FCE3600C25F12 /* PBXTextBookmark */;
+			A838F9F5103FCE3A00C25F12 /* PBXTextBookmark */ = A838F9F5103FCE3A00C25F12 /* PBXTextBookmark */;
+			A838F9F7103FCE4200C25F12 /* PBXTextBookmark */ = A838F9F7103FCE4200C25F12 /* PBXTextBookmark */;
+			A838F9F8103FCE6000C25F12 /* PBXTextBookmark */ = A838F9F8103FCE6000C25F12 /* PBXTextBookmark */;
+			A838F9FA103FCE7400C25F12 /* PBXTextBookmark */ = A838F9FA103FCE7400C25F12 /* PBXTextBookmark */;
+			A838F9FB103FCE7800C25F12 /* PBXTextBookmark */ = A838F9FB103FCE7800C25F12 /* PBXTextBookmark */;
+			A838F9FC103FCE8100C25F12 /* PBXTextBookmark */ = A838F9FC103FCE8100C25F12 /* PBXTextBookmark */;
+			A838F9FE103FCEC100C25F12 /* PBXTextBookmark */ = A838F9FE103FCEC100C25F12 /* PBXTextBookmark */;
+			A838F9FF103FCEC400C25F12 /* PBXTextBookmark */ = A838F9FF103FCEC400C25F12 /* PBXTextBookmark */;
+			A838FA00103FCECA00C25F12 /* PBXTextBookmark */ = A838FA00103FCECA00C25F12 /* PBXTextBookmark */;
+			A838FA02103FCED700C25F12 /* PBXTextBookmark */ = A838FA02103FCED700C25F12 /* PBXTextBookmark */;
+			A838FA03103FCEDB00C25F12 /* PBXTextBookmark */ = A838FA03103FCEDB00C25F12 /* PBXTextBookmark */;
+			A838FA04103FCEE200C25F12 /* PBXTextBookmark */ = A838FA04103FCEE200C25F12 /* PBXTextBookmark */;
+			A838FA06103FCF0700C25F12 /* PBXTextBookmark */ = A838FA06103FCF0700C25F12 /* PBXTextBookmark */;
+			A838FA07103FCF7000C25F12 /* PBXTextBookmark */ = A838FA07103FCF7000C25F12 /* PBXTextBookmark */;
+			A838FA08103FCF8100C25F12 /* PBXTextBookmark */ = A838FA08103FCF8100C25F12 /* PBXTextBookmark */;
+			A838FA09103FCF8400C25F12 /* PBXTextBookmark */ = A838FA09103FCF8400C25F12 /* PBXTextBookmark */;
+			A838FA0A103FCF9D00C25F12 /* PBXTextBookmark */ = A838FA0A103FCF9D00C25F12 /* PBXTextBookmark */;
+			A838FA0B103FCF9D00C25F12 /* PBXTextBookmark */ = A838FA0B103FCF9D00C25F12 /* PBXTextBookmark */;
+			A838FA0C103FCF9D00C25F12 /* PBXTextBookmark */ = A838FA0C103FCF9D00C25F12 /* PBXTextBookmark */;
+			A838FA0D103FCFBD00C25F12 /* PBXTextBookmark */ = A838FA0D103FCFBD00C25F12 /* PBXTextBookmark */;
+			A838FA0E103FCFBD00C25F12 /* PBXTextBookmark */ = A838FA0E103FCFBD00C25F12 /* PBXTextBookmark */;
+			A838FA10103FD05400C25F12 /* PBXTextBookmark */ = A838FA10103FD05400C25F12 /* PBXTextBookmark */;
+			A838FA11103FD05400C25F12 /* PBXTextBookmark */ = A838FA11103FD05400C25F12 /* PBXTextBookmark */;
+			A838FA12103FD05400C25F12 /* PBXTextBookmark */ = A838FA12103FD05400C25F12 /* PBXTextBookmark */;
+			A838FA13103FD05400C25F12 /* PBXTextBookmark */ = A838FA13103FD05400C25F12 /* PBXTextBookmark */;
+			A838FA14103FD07300C25F12 /* PBXTextBookmark */ = A838FA14103FD07300C25F12 /* PBXTextBookmark */;
+			A838FA15103FD07A00C25F12 /* PBXTextBookmark */ = A838FA15103FD07A00C25F12 /* PBXTextBookmark */;
+			A838FA16103FD07A00C25F12 /* PBXTextBookmark */ = A838FA16103FD07A00C25F12 /* PBXTextBookmark */;
+			A838FA18103FD08500C25F12 /* PBXTextBookmark */ = A838FA18103FD08500C25F12 /* PBXTextBookmark */;
+			A838FA19103FD08500C25F12 /* PBXTextBookmark */ = A838FA19103FD08500C25F12 /* PBXTextBookmark */;
+			A838FA1A103FD08500C25F12 /* PBXTextBookmark */ = A838FA1A103FD08500C25F12 /* PBXTextBookmark */;
+			A838FA1B103FD08500C25F12 /* PBXTextBookmark */ = A838FA1B103FD08500C25F12 /* PBXTextBookmark */;
+			A838FA1E103FD3C000C25F12 /* PBXTextBookmark */ = A838FA1E103FD3C000C25F12 /* PBXTextBookmark */;
+			A838FA1F103FD3C000C25F12 /* PBXTextBookmark */ = A838FA1F103FD3C000C25F12 /* PBXTextBookmark */;
+			A838FA20103FD3C000C25F12 /* PBXTextBookmark */ = A838FA20103FD3C000C25F12 /* PBXTextBookmark */;
+			A838FA22103FD4C500C25F12 /* PBXTextBookmark */ = A838FA22103FD4C500C25F12 /* PBXTextBookmark */;
 			A8D966ED1033D42700B029F2 = A8D966ED1033D42700B029F2 /* PBXTextBookmark */;
 			A8D966EE1033D42700B029F2 = A8D966EE1033D42700B029F2 /* PBXTextBookmark */;
 		};
@@ -600,9 +663,9 @@
 	};
 	A838F724103E1FD300C25F12 /* DepthChargeView.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1533, 1904}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1740, 1848}}";
 			sepNavSelRange = "{1679, 0}";
-			sepNavVisRange = "{527, 1288}";
+			sepNavVisRange = "{987, 330}";
 			sepNavWindowFrame = "{{68, 130}, {1125, 923}}";
 		};
 	};
@@ -1665,7 +1728,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1675,7 +1738,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1695,7 +1758,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 493;
@@ -1715,7 +1778,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1725,7 +1788,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1745,7 +1808,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 39";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1755,7 +1818,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 39";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1765,7 +1828,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 853;
 		vrLoc = 0;
@@ -1775,7 +1838,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -1785,7 +1848,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1133;
 		vrLoc = 0;
@@ -1795,7 +1858,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -1930,7 +1993,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -1940,7 +2003,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -1950,7 +2013,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -1960,7 +2023,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 554;
 		vrLoc = 672;
@@ -1970,7 +2033,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1224;
 		vrLoc = 0;
@@ -1980,7 +2043,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1224;
 		vrLoc = 0;
@@ -1990,7 +2053,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 552;
 		vrLoc = 672;
@@ -2000,7 +2063,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2020,7 +2083,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2060,7 +2123,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 1821;
 		rType = 0;
 		vrLen = 520;
 		vrLoc = 631;
@@ -2254,16 +2317,16 @@
 	};
 	A838F820103E4FA800C25F12 /* DepthChargeGame.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1533, 1666}}";
-			sepNavSelRange = "{564, 0}";
-			sepNavVisRange = "{0, 1005}";
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1918}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{0, 1068}";
 		};
 	};
 	A838F822103E591100C25F12 /* Util.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1740, 2492}}";
-			sepNavSelRange = "{3063, 0}";
-			sepNavVisRange = "{2787, 307}";
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1736}}";
+			sepNavSelRange = "{998, 0}";
+			sepNavVisRange = "{471, 942}";
 		};
 	};
 	A838F825103E5C9000C25F12 /* PBXBookmark */ = {
@@ -2299,7 +2362,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 47";
 		rLen = 0;
-		rLoc = 1031;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -2309,7 +2372,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1055;
 		vrLoc = 1892;
@@ -2389,7 +2452,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 47";
 		rLen = 0;
-		rLoc = 1031;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -2399,7 +2462,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1055;
 		vrLoc = 1892;
@@ -2429,7 +2492,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1799;
+		rLoc = 1820;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2439,7 +2502,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 47";
 		rLen = 0;
-		rLoc = 1031;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -2459,7 +2522,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1799;
+		rLoc = 1820;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -2469,7 +2532,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 47";
 		rLen = 0;
-		rLoc = 1031;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -2489,7 +2552,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1799;
+		rLoc = 1820;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2499,7 +2562,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 37";
 		rLen = 0;
-		rLoc = 635;
+		rLoc = 593;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 0;
@@ -2509,7 +2572,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 37";
 		rLen = 0;
-		rLoc = 635;
+		rLoc = 593;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 0;
@@ -2519,7 +2582,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 1869;
@@ -2529,7 +2592,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 37";
 		rLen = 0;
-		rLoc = 635;
+		rLoc = 593;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 0;
@@ -2539,7 +2602,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 80";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 1248;
 		rType = 0;
 		vrLen = 1035;
 		vrLoc = 623;
@@ -2561,7 +2624,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 80";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 1248;
 		rType = 0;
 		vrLen = 214;
 		vrLoc = 1342;
@@ -2571,7 +2634,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 80";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 1248;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 0;
@@ -2581,7 +2644,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 37";
 		rLen = 0;
-		rLoc = 635;
+		rLoc = 593;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 0;
@@ -2591,7 +2654,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 80";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 1248;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 0;
@@ -2631,7 +2694,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 80";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 1248;
 		rType = 0;
 		vrLen = 219;
 		vrLoc = 1325;
@@ -2671,7 +2734,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1799;
+		rLoc = 1820;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2691,7 +2754,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1264;
 		vrLoc = 0;
@@ -2701,7 +2764,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2711,7 +2774,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2721,7 +2784,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2741,7 +2804,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 474;
 		vrLoc = 808;
@@ -2761,7 +2824,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 474;
 		vrLoc = 808;
@@ -2771,7 +2834,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2781,7 +2844,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 45";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 675;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -2791,7 +2854,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 169";
 		rLen = 0;
-		rLoc = 2880;
+		rLoc = 1673;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 1869;
@@ -2801,7 +2864,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2811,7 +2874,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 44";
 		rLen = 0;
-		rLoc = 712;
+		rLoc = 670;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 0;
@@ -2821,7 +2884,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 169";
 		rLen = 0;
-		rLoc = 2880;
+		rLoc = 1673;
 		rType = 0;
 		vrLen = 1055;
 		vrLoc = 1892;
@@ -2831,7 +2894,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 45";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 675;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -2841,7 +2904,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 2961;
+		rLoc = 1754;
 		rType = 0;
 		vrLen = 1100;
 		vrLoc = 1869;
@@ -2851,7 +2914,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 2961;
+		rLoc = 1754;
 		rType = 0;
 		vrLen = 1100;
 		vrLoc = 1869;
@@ -2861,7 +2924,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 2961;
+		rLoc = 1754;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 1924;
@@ -2871,7 +2934,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 2961;
+		rLoc = 1754;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 1924;
@@ -2881,7 +2944,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 467;
 		vrLoc = 815;
@@ -2891,7 +2954,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 172";
 		rLen = 0;
-		rLoc = 2961;
+		rLoc = 1754;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 2628;
@@ -2901,7 +2964,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1868;
+		rLoc = 1889;
 		rType = 0;
 		vrLen = 467;
 		vrLoc = 815;
@@ -2911,7 +2974,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 170";
 		rLen = 0;
-		rLoc = 2914;
+		rLoc = 1707;
 		rType = 0;
 		vrLen = 283;
 		vrLoc = 2691;
@@ -2921,7 +2984,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1223;
 		vrLoc = 0;
@@ -2931,7 +2994,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 45";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 675;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -2941,7 +3004,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1223;
 		vrLoc = 0;
@@ -2951,7 +3014,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 45";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 675;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -3051,7 +3114,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 170";
 		rLen = 0;
-		rLoc = 2914;
+		rLoc = 1707;
 		rType = 0;
 		vrLen = 252;
 		vrLoc = 2722;
@@ -3081,7 +3144,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 45";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 675;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -3101,7 +3164,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3111,7 +3174,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3121,7 +3184,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3131,7 +3194,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3141,7 +3204,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3151,7 +3214,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3161,7 +3224,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3171,7 +3234,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 35";
 		rLen = 0;
-		rLoc = 587;
+		rLoc = 546;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 523;
@@ -3191,7 +3254,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 35";
 		rLen = 0;
-		rLoc = 587;
+		rLoc = 546;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 523;
@@ -3211,7 +3274,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3425,7 +3488,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3455,7 +3518,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3479,7 +3542,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3789,7 +3852,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 40";
 		rLen = 0;
-		rLoc = 652;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3809,7 +3872,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 49";
 		rLen = 0;
-		rLoc = 1031;
+		rLoc = 1274;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 0;
@@ -3819,7 +3882,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 51";
 		rLen = 0;
-		rLoc = 998;
+		rLoc = 956;
 		rType = 0;
 		vrLen = 836;
 		vrLoc = 0;
@@ -3829,7 +3892,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 51";
 		rLen = 0;
-		rLoc = 998;
+		rLoc = 956;
 		rType = 0;
 		vrLen = 867;
 		vrLoc = 0;
@@ -3839,7 +3902,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 69";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1665;
 		rType = 0;
 		vrLen = 927;
 		vrLoc = 150;
@@ -3849,7 +3912,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -3879,7 +3942,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1223;
 		vrLoc = 0;
@@ -3889,7 +3952,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 74";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1594;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 318;
@@ -3929,7 +3992,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -3959,7 +4022,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 1924;
@@ -3969,7 +4032,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -3979,7 +4042,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 1924;
@@ -3989,7 +4052,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 21";
 		rLen = 0;
-		rLoc = 417;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 1924;
@@ -3999,7 +4062,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -4009,7 +4072,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 179";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1986;
@@ -4019,7 +4082,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 179";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1986;
@@ -4039,7 +4102,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 179";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1986;
@@ -4159,7 +4222,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -4169,7 +4232,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1687;
 		vrLoc = 0;
@@ -4189,7 +4252,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1687;
 		vrLoc = 0;
@@ -4199,7 +4262,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 68";
 		rLen = 0;
-		rLoc = 1119;
+		rLoc = 1362;
 		rType = 0;
 		vrLen = 1073;
 		vrLoc = 317;
@@ -4209,7 +4272,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1710;
 		vrLoc = 0;
@@ -4219,7 +4282,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1710;
 		vrLoc = 0;
@@ -4229,7 +4292,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1696;
 		vrLoc = 22;
@@ -4249,7 +4312,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 555;
 		vrLoc = 1155;
@@ -4259,7 +4322,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 66";
 		rLen = 0;
-		rLoc = 1054;
+		rLoc = 1297;
 		rType = 0;
 		vrLen = 1079;
 		vrLoc = 317;
@@ -4279,7 +4342,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1716;
 		vrLoc = 2;
@@ -4289,7 +4352,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1716;
 		vrLoc = 2;
@@ -4299,7 +4362,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 66";
 		rLen = 0;
-		rLoc = 1054;
+		rLoc = 1297;
 		rType = 0;
 		vrLen = 1079;
 		vrLoc = 317;
@@ -4389,7 +4452,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 66";
 		rLen = 0;
-		rLoc = 1054;
+		rLoc = 1297;
 		rType = 0;
 		vrLen = 1079;
 		vrLoc = 317;
@@ -4409,7 +4472,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 1042;
 		vrLoc = 404;
@@ -4419,7 +4482,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 420;
@@ -4439,7 +4502,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1049;
@@ -4449,7 +4512,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 420;
@@ -4459,7 +4522,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 179";
 		rLen = 0;
-		rLoc = 3089;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1116;
 		vrLoc = 1962;
@@ -4469,7 +4532,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 420;
@@ -4479,7 +4542,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 1128;
 		vrLoc = 1962;
@@ -4489,7 +4552,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 1128;
 		vrLoc = 1962;
@@ -4499,7 +4562,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 1095;
 		vrLoc = 1999;
@@ -4509,7 +4572,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 386;
 		vrLoc = 1005;
@@ -4519,7 +4582,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 2749;
@@ -4529,7 +4592,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 1095;
 		vrLoc = 1999;
@@ -4539,7 +4602,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 70";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1406;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 420;
@@ -4549,7 +4612,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 1095;
 		vrLoc = 1999;
@@ -4559,7 +4622,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 1032;
 		vrLoc = 420;
@@ -4569,7 +4632,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 1014;
 		vrLoc = 438;
@@ -4579,7 +4642,7 @@
 		fRef = A838F822103E591100C25F12 /* Util.rb */;
 		name = "Util.rb: 177";
 		rLen = 0;
-		rLoc = 3063;
+		rLoc = 1856;
 		rType = 0;
 		vrLen = 307;
 		vrLoc = 2787;
@@ -4589,7 +4652,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1178;
@@ -4599,7 +4662,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 1048;
 		vrLoc = 404;
@@ -4609,7 +4672,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 1048;
 		vrLoc = 404;
@@ -4659,7 +4722,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 77";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 291;
 		vrLoc = 1157;
@@ -4689,7 +4752,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 71";
 		rLen = 0;
-		rLoc = 1164;
+		rLoc = 1407;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 404;
@@ -4719,7 +4782,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 71";
 		rLen = 0;
-		rLoc = 1164;
+		rLoc = 1407;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 404;
@@ -4729,7 +4792,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1847;
 		vrLoc = 187;
@@ -4739,7 +4802,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1847;
 		vrLoc = 187;
@@ -4759,7 +4822,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 610;
 		vrLoc = 1424;
@@ -4769,7 +4832,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1754;
 		vrLoc = 288;
@@ -4779,7 +4842,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 71";
 		rLen = 0;
-		rLoc = 1164;
+		rLoc = 1407;
 		rType = 0;
 		vrLen = 1012;
 		vrLoc = 420;
@@ -4789,7 +4852,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 1754;
 		vrLoc = 288;
@@ -4799,7 +4862,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 71";
 		rLen = 0;
-		rLoc = 1164;
+		rLoc = 1407;
 		rType = 0;
 		vrLen = 1012;
 		vrLoc = 420;
@@ -4839,7 +4902,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2033;
+		rLoc = 2072;
 		rType = 0;
 		vrLen = 504;
 		vrLoc = 1538;
@@ -4929,7 +4992,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 71";
 		rLen = 0;
-		rLoc = 1164;
+		rLoc = 1407;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 404;
@@ -4949,7 +5012,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 93";
 		rLen = 0;
-		rLoc = 1651;
+		rLoc = 1894;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 618;
@@ -4969,7 +5032,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 93";
 		rLen = 0;
-		rLoc = 1651;
+		rLoc = 1894;
 		rType = 0;
 		vrLen = 223;
 		vrLoc = 1487;
@@ -4979,7 +5042,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 95";
 		rLen = 0;
-		rLoc = 1683;
+		rLoc = 1926;
 		rType = 0;
 		vrLen = 1068;
 		vrLoc = 652;
@@ -4989,7 +5052,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 95";
 		rLen = 0;
-		rLoc = 1683;
+		rLoc = 1926;
 		rType = 0;
 		vrLen = 1068;
 		vrLoc = 652;
@@ -4999,7 +5062,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 95";
 		rLen = 0;
-		rLoc = 1683;
+		rLoc = 1926;
 		rType = 0;
 		vrLen = 199;
 		vrLoc = 1521;
@@ -5009,7 +5072,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 620;
@@ -5019,7 +5082,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 620;
@@ -5029,7 +5092,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 268;
 		vrLoc = 1398;
@@ -5039,7 +5102,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 620;
@@ -5059,7 +5122,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 620;
@@ -5129,7 +5192,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 268;
 		vrLoc = 1398;
@@ -5159,7 +5222,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 63";
 		rLen = 0;
-		rLoc = 1026;
+		rLoc = 1269;
 		rType = 0;
 		vrLen = 1112;
 		vrLoc = 620;
@@ -5179,7 +5242,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 92";
 		rLen = 0;
-		rLoc = 1610;
+		rLoc = 1853;
 		rType = 0;
 		vrLen = 1076;
 		vrLoc = 652;
@@ -5189,7 +5252,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 93";
 		rLen = 0;
-		rLoc = 1633;
+		rLoc = 1876;
 		rType = 0;
 		vrLen = 1102;
 		vrLoc = 652;
@@ -5199,7 +5262,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 116";
 		rLen = 0;
-		rLoc = 2079;
+		rLoc = 2322;
 		rType = 0;
 		vrLen = 1200;
 		vrLoc = 933;
@@ -5209,7 +5272,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 0;
@@ -5219,7 +5282,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 0;
@@ -5239,7 +5302,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 0;
@@ -5359,7 +5422,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 0;
@@ -5379,7 +5442,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 110";
 		rLen = 0;
-		rLoc = 1945;
+		rLoc = 2188;
 		rType = 0;
 		vrLen = 1185;
 		vrLoc = 976;
@@ -5389,7 +5452,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 110";
 		rLen = 0;
-		rLoc = 1945;
+		rLoc = 2188;
 		rType = 0;
 		vrLen = 1205;
 		vrLoc = 956;
@@ -5409,7 +5472,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 110";
 		rLen = 0;
-		rLoc = 1945;
+		rLoc = 2188;
 		rType = 0;
 		vrLen = 1205;
 		vrLoc = 956;
@@ -5429,7 +5492,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 0;
@@ -5459,7 +5522,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 33";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 0;
@@ -5529,7 +5592,7 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 117";
 		rLen = 0;
-		rLoc = 2120;
+		rLoc = 2363;
 		rType = 0;
 		vrLen = 1187;
 		vrLoc = 976;
@@ -5539,10 +5602,640 @@
 		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
 		name = "DepthChargeGame.rb: 32";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 1005;
 		vrLoc = 0;
+	};
+	A838F9D4103FC0E800C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 32";
+		rLen = 0;
+		rLoc = 541;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 700;
+	};
+	A838F9D5103FC0E800C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 32";
+		rLen = 0;
+		rLoc = 541;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 700;
+	};
+	A838F9D6103FC0E800C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 74";
+		rLen = 0;
+		rLoc = 2072;
+		rType = 0;
+		vrLen = 1790;
+		vrLoc = 515;
+	};
+	A838F9D8103FC0F400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 64";
+		rLen = 0;
+		rLoc = 1820;
+		rType = 0;
+		vrLen = 1781;
+		vrLoc = 515;
+	};
+	A838F9D9103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 64";
+		rLen = 0;
+		rLoc = 1820;
+		rType = 0;
+		vrLen = 1808;
+		vrLoc = 515;
+	};
+	A838F9DA103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 76";
+		rLen = 0;
+		rLoc = 1237;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 700;
+	};
+	A838F9DB103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 177";
+		rLen = 0;
+		rLoc = 1856;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 1986;
+	};
+	A838F9DC103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 64";
+		rLen = 0;
+		rLoc = 1820;
+		rType = 0;
+		vrLen = 1808;
+		vrLoc = 515;
+	};
+	A838F9DD103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 76";
+		rLen = 0;
+		rLoc = 1237;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 700;
+	};
+	A838F9DE103FC82600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 123";
+		rLen = 0;
+		rLoc = 1636;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 1656;
+	};
+	A838F9DF103FC83F00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 123";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 1656;
+	};
+	A838F9E0103FC89100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 85";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 1296;
+	};
+	A838F9E1103FCA7800C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 110";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 1274;
+	};
+	A838F9E3103FCD1A00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 78";
+		rLen = 0;
+		rLoc = 1025;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 1439;
+	};
+	A838F9E4103FCD2000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 78";
+		rLen = 0;
+		rLoc = 1679;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 987;
+	};
+	A838F9E5103FCD2000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 78";
+		rLen = 0;
+		rLoc = 1025;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 1439;
+	};
+	A838F9E7103FCD2C00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 1439;
+	};
+	A838F9E8103FCD3200C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 1439;
+	};
+	A838F9E9103FCD3B00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 1325;
+	};
+	A838F9EA103FCD5000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 1439;
+	};
+	A838F9EC103FCDA000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 12";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 990;
+		vrLoc = 0;
+	};
+	A838F9ED103FCDA500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 12";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 990;
+		vrLoc = 0;
+	};
+	A838F9EE103FCDAE00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 12";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 790;
+	};
+	A838F9F0103FCDC100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 33";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 0;
+	};
+	A838F9F1103FCDC600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 33";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 0;
+	};
+	A838F9F2103FCDD100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 33";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 692;
+	};
+	A838F9F4103FCE3600C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 122";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 1357;
+	};
+	A838F9F5103FCE3A00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 122";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 1357;
+	};
+	A838F9F7103FCE4200C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 122";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 1370;
+	};
+	A838F9F8103FCE6000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 122";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 1357;
+	};
+	A838F9FA103FCE7400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 121";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 1212;
+	};
+	A838F9FB103FCE7800C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 121";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 1212;
+	};
+	A838F9FC103FCE8100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 121";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 1357;
+	};
+	A838F9FE103FCEC100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 1129;
+	};
+	A838F9FF103FCEC400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 1129;
+	};
+	A838FA00103FCECA00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 117";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 1357;
+	};
+	A838FA02103FCED700C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 127";
+		rLen = 0;
+		rLoc = 1521;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 1370;
+	};
+	A838FA03103FCEDB00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 127";
+		rLen = 0;
+		rLoc = 1521;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 1370;
+	};
+	A838FA04103FCEE200C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 127";
+		rLen = 0;
+		rLoc = 1521;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 1370;
+	};
+	A838FA06103FCF0700C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 1299;
+	};
+	A838FA07103FCF7000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 1299;
+	};
+	A838FA08103FCF8100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 1299;
+	};
+	A838FA09103FCF8400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 1370;
+	};
+	A838FA0A103FCF9D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 1299;
+	};
+	A838FA0B103FCF9D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 1299;
+	};
+	A838FA0C103FCF9D00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 0;
+	};
+	A838FA0D103FCFBD00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 1370;
+	};
+	A838FA0E103FCFBD00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 150;
+	};
+	A838FA10103FD05400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 0;
+	};
+	A838FA11103FD05400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 116";
+		rLen = 0;
+		rLoc = 1419;
+		rType = 0;
+		vrLen = 891;
+		vrLoc = 1274;
+	};
+	A838FA12103FD05400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 0;
+	};
+	A838FA13103FD05400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 58";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 253;
+	};
+	A838FA14103FD07300C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 58";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 253;
+	};
+	A838FA15103FD07A00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 150;
+	};
+	A838FA16103FD07A00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 58";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 886;
+	};
+	A838FA18103FD08500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 58";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 471;
+	};
+	A838FA19103FD08500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 17";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 0;
+	};
+	A838FA1A103FD08500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F822103E591100C25F12 /* Util.rb */;
+		name = "Util.rb: 58";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 471;
+	};
+	A838FA1B103FD08500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 33";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+	A838FA1E103FD3C000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 33";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	A838FA1F103FD3C000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F820103E4FA800C25F12 /* DepthChargeGame.rb */;
+		name = "DepthChargeGame.rb: 33";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	A838FA20103FD3C000C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 65";
+		rLen = 0;
+		rLoc = 1762;
+		rType = 0;
+		vrLen = 1716;
+		vrLoc = 823;
+	};
+	A838FA22103FD4C500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 63";
+		rLen = 0;
+		rLoc = 1762;
+		rType = 0;
+		vrLen = 1629;
+		vrLoc = 808;
 	};
 	A8D966B91033CB6200B029F2 /* DepthCharge */ = {
 		isa = PBXExecutable;
@@ -5583,9 +6276,9 @@
 	};
 	A8D966C91033CB8600B029F2 /* AppController.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1740, 1050}}";
-			sepNavSelRange = "{2033, 0}";
-			sepNavVisRange = "{1538, 504}";
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1344}}";
+			sepNavSelRange = "{1762, 0}";
+			sepNavVisRange = "{808, 1629}";
 			sepNavWindowFrame = "{{485, 62}, {1125, 923}}";
 		};
 	};
@@ -5593,7 +6286,7 @@
 		isa = PBXTextBookmark;
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		rLen = 0;
-		rLoc = 2042;
+		rLoc = 2440;
 		rType = 0;
 	};
 	A8D966EE1033D42700B029F2 /* PBXTextBookmark */ = {

@@ -60,7 +60,9 @@ class AppController < OSX::NSObject
 		@mark_blue.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0, 0x60/256.0, 1)
 		@mark_green.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0, 0xa0/256.0, 0x60/256.0, 1)
 		@mark_orange.color = OSX::NSColor.colorWithCalibratedRed_green_blue_alpha_(0xb0/256.0, 0x80/256.0, 0x40/256.0, 1)
+		
 		self.game = DepthChargeGame.new(self)
+		update_messages
 	end
 	
 	def show_message str = ''
@@ -71,5 +73,24 @@ class AppController < OSX::NSObject
 		game.onMapClick(:x => x, :y => y)
 		puts game.inspect
 		@depth_charge_view.setNeedsDisplay true
+		update_messages
+	end
+	
+	def update_messages
+		mc = game.status[:mines]
+		d = "#{mc} mine#{mc==1 ? '' : 's'}";
+
+		if game.status[:misses] != 0
+			m = game.status[:misses]
+			d += ", #{m} miss#{m==1 ? '' : 'es'}"
+		else
+			d +=" left"
+		end
+		
+		pc = game.status[:pings]
+		s = "#{pc} ping#{pc==1 ? '' : 's'} left"
+		
+		@dc_label.setStringValue d
+		@ping_label.setStringValue s
 	end
 end

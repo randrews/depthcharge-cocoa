@@ -6,14 +6,12 @@
 #  Copyright (c) 2009 Home. All rights reserved.
 #
 
+require 'set'
+
 module Util
 
-	def cmap c, &block
-		{:x => block[c[:x]], :y => block[c[:y]]}
-	end
-
 	def whichWay start, endp 
-		delta = cmap(:x => endp[:x]-start[:x], :y => endp[:y]-start[:y]){|n| Math.abs n}
+		delta = {:x => (endp[:x]-start[:x]).abs, :y => (endp[:y]-start[:y]).abs }
 
 		return :h_then_v if delta[:x]>delta[:y]
 		return :v_then_h if delta[:x]<delta[:y]
@@ -22,48 +20,47 @@ module Util
 
 	def goH curr, goal
 		if curr[:x] < goal[:x]
-			curr.x += 1
+			curr[:x] += 1
 		elsif curr[:x] > goal[:x]
-			curr.x -= 1
+			curr[:x] -= 1
 		end
 	end
 
 	def goV curr, goal
 		if curr[:y] < goal[:y] 
-			curr.y += 1
+			curr[:y] += 1
 		elsif curr[:y] > goal[:y]
-			curr.y -= 1
+			curr[:y] -= 1
 		end
 	end
 
-=begin
-function path(start, end){
-	var way=whichWay(start,end);
-	var curr={x:start.x, y:start.y};
-	if(way=='diag'){
-		return function(){
-			if(same(curr,end))return null;
-			goH(curr,end);
-			goV(curr,end);
-			return copy(curr);
-		}
-	} else if(way=='h-then-v'){
-		return function(){
-			if(same(curr,end))return null;
-			if(curr.x! = end.x)goH(curr,end);
-			else goV(curr,end);
-			return copy(curr);
-		}
-	} else if(way=='v-then-h'){
-		return function(){
-			if(same(curr,end))return null;
-			if(curr.y! = end.y)goV(curr,end);
-			else goH(curr,end);
-			return copy(curr);
-		}
-	}
-}
-=end
+	def along_path start_c, end_c, &block
+		way = whichWay start_c, end_c
+		curr = start_c.dup
+		
+		while curr != end_c
+			case way
+			when :diag
+				goH curr, end_c
+				goV curr, end_c
+			when :h_then_v
+				if curr[:x] != end_c[:x]
+					goH curr, end_c
+				else
+					goV curr, end_c
+				end
+			when :v_then_h
+				if curr[:y] != end_c[:y]
+					goV curr, end_c
+				else
+					goH curr, end_c
+				end
+			end
+
+			yield curr
+		end
+	end
+
 
 	def randomCoords num, maxx=12, maxy=12
 		used={}
@@ -81,91 +78,34 @@ function path(start, end){
 		coords
 	end
 
-=begin
-function distance(start,end){
-	var p=path(start,end);
-	var c=p();
-	var cnt=0;
-	
-	while(c!=null){
-		cnt++;
-		if(!same(c,end) && isBlocked(c))return null;
-		c=p();
-	}
-	return cnt;
-}
+	def distance start_c, end_c
+		cnt = 0
+		
+		along_path start_c, end_c do |c|
+			cnt += 1
+			return nil if c != end_c and isBlocked(c)
+		end
+		
+		cnt
+	end
 
+	def isBlocked c
+		b = Set.new
+		(islands + mines).each do |blocker|
+			b << blocker[:coord]
+		end
 
-function setupBlocks(){
-	blocks=[];
-	for(i in islands){
-		var isle=islands[i];
-		blocks[isle.coord.y*12+isle.coord.x]=true;
-	}
-	for(i in mines){
-		var m=mines[i];
-		blocks[m.coord.y*12+m.coord.x]=true;
-	}
-}
+		b.include? c
+	end
 
+	def getReturns c
+		ret = self.mines.map do |m|
+			distance(c,m[:coord])
+		end
+		
+		ret.compact.uniq.sort
+	end
 
-function isBlocked(c){
-	if(blocks==null)setupBlocks();
-	return blocks[c.y*12+c.x]!=null;
-}
-
-
-function getReturns(c){
-	var ret=[];
-	for(i in mines){
-		var m=mines[i];
-		var d=distance(c,m.coord);
-		if(d)ret[ret.length]=d;
-	}
-	return unique(ret).sort();
-}
-
-function unique(a){
-	var r=[];
-	for(i in a){
-		var t=a[i];
-		if(!contains(r,t))
-			r[r.length]=t;
-	}
-	return r;
-}
-
-function contains(arr,n){
-	for(i in arr)
-		if(arr[i]==n)return true;
-	return false;
-}
-
-function removeMineAt(coord){
-	for(i in mines){
-		var x=i;
-		var m=mines[x];
-		if(same(m.coord,coord)){
-			mines[x]=mines[mines.length-1];
-			mines.length--;
-			break;
-		}
-	}
-}
-/////////////// RNG from andrew@hedges.name //////////////////////
-rnd.today = new Date();
-rnd.seed  = rnd.today.getTime();
-
-function rnd() {
-   rnd.seed = (rnd.seed*9301+49297) % 233280;
-   return rnd.seed/(233280.0);
-}
-
-function rand(number) {
-   return Math.floor(rnd()*number);
-}
-//////////////////////////////////////////////////////////////////
-=end
 	def makeIsland coord
 		{ :name => "island#{rand(4)+1}",
 		  :angle => 90*rand(4),

@@ -14,7 +14,6 @@ class DepthChargeGame
 	attr_reader :controller
 	attr_accessor :marks, :pings, :mines, :charges, :islands
 	attr_accessor :status
-	attr_accessor :blocks
 
 	def initialize controller
 		@controller = controller
@@ -31,8 +30,6 @@ class DepthChargeGame
 			:markMode => nil,
 			:clickMode => nil
 		}
-
-		self.blocks=nil
 
 		controller.show_message ''
 	
@@ -61,6 +58,21 @@ class DepthChargeGame
 	end
 	
 	def ping_click coord
+		if status[:pings] <= 0
+			controller.show_message "You are out of pings."
+		else
+			s = findSpaceIn coord, pings
+			if s
+				s[:returns] = getReturns(coord)
+			else
+				pings << {
+					:coord => coord,
+					:returns => getReturns(coord)
+				}
+			end
+			
+			status[:pings] -= 1
+		end
 	end
 
 	def mark_click coord

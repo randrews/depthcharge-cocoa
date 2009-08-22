@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archive type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="7.03">
 	<data>
-		<int key="IBDocument.SystemTarget">0</int>
+		<int key="IBDocument.SystemTarget">1040</int>
 		<string key="IBDocument.SystemVersion">9G55</string>
 		<string key="IBDocument.InterfaceBuilderVersion">677</string>
 		<string key="IBDocument.AppKitVersion">949.43</string>
@@ -173,7 +173,7 @@
 				<int key="NSWindowBacking">2</int>
 				<string key="NSWindowRect">{{54, 485}, {410, 512}}</string>
 				<int key="NSWTFlags">603979776</int>
-				<string key="NSWindowTitle">Window</string>
+				<string key="NSWindowTitle">Depth Charge</string>
 				<string key="NSWindowClass">NSWindow</string>
 				<nil key="NSViewClass"/>
 				<string key="NSWindowContentMaxSize">{410, 512}</string>
@@ -200,7 +200,7 @@
 								</object>
 								<reference key="NSControlView" ref="123348766"/>
 								<int key="NSButtonFlags">-1232846593</int>
-								<int key="NSButtonFlags2">163</int>
+								<int key="NSButtonFlags2">35</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
 								<int key="NSPeriodicDelay">400</int>
@@ -220,7 +220,7 @@
 								<reference key="NSSupport" ref="7339827"/>
 								<reference key="NSControlView" ref="17662199"/>
 								<int key="NSButtonFlags">-1232846593</int>
-								<int key="NSButtonFlags2">163</int>
+								<int key="NSButtonFlags2">35</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
 								<int key="NSPeriodicDelay">400</int>
@@ -240,7 +240,7 @@
 								<reference key="NSSupport" ref="7339827"/>
 								<reference key="NSControlView" ref="16534800"/>
 								<int key="NSButtonFlags">-1232715521</int>
-								<int key="NSButtonFlags2">163</int>
+								<int key="NSButtonFlags2">35</int>
 								<reference key="NSAlternateImage" ref="7339827"/>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -288,7 +288,7 @@
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSTextFieldCell" key="NSCell" id="603263398">
 								<int key="NSCellFlags">68288064</int>
-								<int key="NSCellFlags2">272630784</int>
+								<int key="NSCellFlags2">138413056</int>
 								<string key="NSContents">Label</string>
 								<reference key="NSSupport" ref="7339827"/>
 								<reference key="NSControlView" ref="973695125"/>
@@ -304,7 +304,7 @@
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSTextFieldCell" key="NSCell" id="995058023">
 								<int key="NSCellFlags">68288064</int>
-								<int key="NSCellFlags2">272630784</int>
+								<int key="NSCellFlags2">138413056</int>
 								<string key="NSContents">Label</string>
 								<reference key="NSSupport" ref="7339827"/>
 								<reference key="NSControlView" ref="51738531"/>
