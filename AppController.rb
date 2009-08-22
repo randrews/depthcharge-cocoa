@@ -22,7 +22,11 @@ class AppController < OSX::NSObject
 	attr_accessor :game
 
 	def new_game
-		puts "New game"
+		self.game = DepthChargeGame.new self
+		update_messages
+		@depth_charge_view.setNeedsDisplay true
+		[@ping_button, @dc_button, @mark_button].each{|b| b.setState(0) }
+		[@mark_orange, @mark_green, @mark_blue].each{|m| m.highlighted = false ; m.setNeedsDisplay true}
 	end
 
 	{:ping_push=>:@ping_button, :dc_push=>:@dc_button, :mark_push=>:@mark_button}.each do |name, value|
@@ -71,7 +75,7 @@ class AppController < OSX::NSObject
 	
 	def handle_click x, y # These are board coordinates, 0..11
 		game.onMapClick(:x => x, :y => y)
-		puts game.inspect
+		# puts game.inspect # This is really handy for debugging
 		@depth_charge_view.setNeedsDisplay true
 		update_messages
 	end

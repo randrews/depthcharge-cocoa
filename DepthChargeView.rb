@@ -39,7 +39,7 @@ class DepthChargeView <  OSX::NSView
 		draw_islands
 		draw_marks
 		draw_charges
-		draw_mines # if @app_controller.game.status[:showMines]
+		draw_mines if @app_controller.game.status[:showMines]
 		draw_pings rect
 		draw_grid
 	end

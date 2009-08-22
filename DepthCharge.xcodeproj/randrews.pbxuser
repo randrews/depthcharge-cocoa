@@ -691,6 +691,13 @@
 			A838FA74104080BC00C25F12 /* PBXTextBookmark */ = A838FA74104080BC00C25F12 /* PBXTextBookmark */;
 			A838FA75104080C600C25F12 /* PBXTextBookmark */ = A838FA75104080C600C25F12 /* PBXTextBookmark */;
 			A838FA76104080CD00C25F12 /* PBXTextBookmark */ = A838FA76104080CD00C25F12 /* PBXTextBookmark */;
+			A838FA781040823500C25F12 /* PBXTextBookmark */ = A838FA781040823500C25F12 /* PBXTextBookmark */;
+			A838FA791040823500C25F12 /* PBXTextBookmark */ = A838FA791040823500C25F12 /* PBXTextBookmark */;
+			A838FA7A1040823500C25F12 /* PBXTextBookmark */ = A838FA7A1040823500C25F12 /* PBXTextBookmark */;
+			A838FA7B1040823500C25F12 /* PBXTextBookmark */ = A838FA7B1040823500C25F12 /* PBXTextBookmark */;
+			A838FA7D1040828C00C25F12 /* PBXTextBookmark */ = A838FA7D1040828C00C25F12 /* PBXTextBookmark */;
+			A838FA7F104082A100C25F12 /* PBXTextBookmark */ = A838FA7F104082A100C25F12 /* PBXTextBookmark */;
+			A838FA80104082D400C25F12 /* PBXTextBookmark */ = A838FA80104082D400C25F12 /* PBXTextBookmark */;
 			A8D966ED1033D42700B029F2 = A8D966ED1033D42700B029F2 /* PBXTextBookmark */;
 			A8D966EE1033D42700B029F2 = A8D966EE1033D42700B029F2 /* PBXTextBookmark */;
 		};
@@ -709,7 +716,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 25";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 0;
@@ -717,8 +724,8 @@
 	A838F724103E1FD300C25F12 /* DepthChargeView.rb */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1533, 2744}}";
-			sepNavSelRange = "{2786, 0}";
-			sepNavVisRange = "{2036, 1622}";
+			sepNavSelRange = "{880, 0}";
+			sepNavVisRange = "{607, 1339}";
 			sepNavWindowFrame = "{{68, 130}, {1125, 923}}";
 		};
 	};
@@ -737,7 +744,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 25";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 0;
@@ -747,7 +754,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 25";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 0;
@@ -777,7 +784,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -807,7 +814,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -817,7 +824,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -827,7 +834,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -837,7 +844,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 410;
 		vrLoc = 0;
@@ -847,7 +854,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -857,7 +864,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 220;
 		vrLoc = 190;
@@ -867,7 +874,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -877,7 +884,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -887,7 +894,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -897,7 +904,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 224;
 		vrLoc = 191;
@@ -907,7 +914,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 963;
+		rLoc = 961;
 		rType = 0;
 		vrLen = 224;
 		vrLoc = 191;
@@ -917,7 +924,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 963;
+		rLoc = 961;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -927,7 +934,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -947,7 +954,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 23";
 		rLen = 0;
-		rLoc = 963;
+		rLoc = 961;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -967,7 +974,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -977,7 +984,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 456;
@@ -987,7 +994,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 153;
@@ -997,7 +1004,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -1007,7 +1014,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -1017,7 +1024,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1027,7 +1034,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -1037,7 +1044,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1054,7 +1061,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -1064,7 +1071,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1074,7 +1081,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 415;
 		vrLoc = 0;
@@ -1084,7 +1091,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1094,7 +1101,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -1104,7 +1111,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1114,7 +1121,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 430;
 		vrLoc = 0;
@@ -1124,7 +1131,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1134,7 +1141,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 432;
 		vrLoc = 0;
@@ -1144,7 +1151,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1154,7 +1161,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 437;
 		vrLoc = 0;
@@ -1164,7 +1171,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 29";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1174,7 +1181,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 247;
 		vrLoc = 190;
@@ -1184,7 +1191,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -1194,7 +1201,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -1204,7 +1211,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 0;
@@ -1214,7 +1221,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 494;
 		vrLoc = 0;
@@ -1224,7 +1231,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -1234,7 +1241,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 509;
 		vrLoc = 0;
@@ -1244,7 +1251,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 462;
 		vrLoc = 0;
@@ -1254,7 +1261,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1044;
+		rLoc = 1042;
 		rType = 0;
 		vrLen = 319;
 		vrLoc = 191;
@@ -1264,7 +1271,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 24";
 		rLen = 0;
-		rLoc = 984;
+		rLoc = 982;
 		rType = 0;
 		vrLen = 271;
 		vrLoc = 191;
@@ -1274,7 +1281,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 32";
 		rLen = 0;
-		rLoc = 1265;
+		rLoc = 1263;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 0;
@@ -1284,7 +1291,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 1265;
+		rLoc = 1263;
 		rType = 0;
 		vrLen = 773;
 		vrLoc = 0;
@@ -1294,7 +1301,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 35";
 		rLen = 0;
-		rLoc = 1266;
+		rLoc = 1264;
 		rType = 0;
 		vrLen = 822;
 		vrLoc = 0;
@@ -1304,7 +1311,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 1305;
+		rLoc = 1303;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 0;
@@ -1314,7 +1321,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1327;
+		rLoc = 1325;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -1324,7 +1331,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 34";
 		rLen = 0;
-		rLoc = 1265;
+		rLoc = 1263;
 		rType = 0;
 		vrLen = 846;
 		vrLoc = 0;
@@ -1354,7 +1361,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 31";
 		rLen = 0;
-		rLoc = 1265;
+		rLoc = 1263;
 		rType = 0;
 		vrLen = 763;
 		vrLoc = 0;
@@ -1364,7 +1371,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 31";
 		rLen = 0;
-		rLoc = 1265;
+		rLoc = 1263;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -1374,7 +1381,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1411;
+		rLoc = 1409;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1384,7 +1391,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1411;
+		rLoc = 1409;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -1394,7 +1401,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 1343;
+		rLoc = 1341;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -1404,7 +1411,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 1343;
+		rLoc = 1341;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -1414,7 +1421,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 37";
 		rLen = 0;
-		rLoc = 1343;
+		rLoc = 1341;
 		rType = 0;
 		vrLen = 260;
 		vrLoc = 190;
@@ -1424,7 +1431,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 20";
 		rLen = 0;
-		rLoc = 956;
+		rLoc = 954;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -1434,7 +1441,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1405;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 794;
 		vrLoc = 0;
@@ -1444,7 +1451,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1405;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 794;
 		vrLoc = 0;
@@ -1454,7 +1461,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1405;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -1464,7 +1471,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1405;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 0;
@@ -1474,7 +1481,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 38";
 		rLen = 0;
-		rLoc = 1405;
+		rLoc = 1403;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1484,7 +1491,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 1266;
+		rLoc = 1264;
 		rType = 0;
 		vrLen = 349;
 		vrLoc = 460;
@@ -1494,7 +1501,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 33";
 		rLen = 0;
-		rLoc = 1266;
+		rLoc = 1264;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1504,7 +1511,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 46";
 		rLen = 0;
-		rLoc = 4588;
+		rLoc = 4586;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 0;
@@ -1514,7 +1521,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 944;
+		rLoc = 942;
 		rType = 0;
 		vrLen = 1007;
 		vrLoc = 0;
@@ -1524,7 +1531,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 944;
+		rLoc = 942;
 		rType = 0;
 		vrLen = 1007;
 		vrLoc = 0;
@@ -1534,7 +1541,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 21";
 		rLen = 0;
-		rLoc = 944;
+		rLoc = 942;
 		rType = 0;
 		vrLen = 348;
 		vrLoc = 469;
@@ -1544,7 +1551,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1041;
+		rLoc = 1039;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1554,7 +1561,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1041;
+		rLoc = 1039;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1564,7 +1571,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 0;
-		rLoc = 1041;
+		rLoc = 1039;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1574,7 +1581,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 26";
 		rLen = 0;
-		rLoc = 1237;
+		rLoc = 1235;
 		rType = 0;
 		vrLen = 307;
 		vrLoc = 359;
@@ -1584,7 +1591,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 1007;
+		rLoc = 1005;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1604,7 +1611,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 1007;
+		rLoc = 1005;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1614,7 +1621,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 25";
 		rLen = 9;
-		rLoc = 1007;
+		rLoc = 1005;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 0;
@@ -1781,7 +1788,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1791,7 +1798,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1801,7 +1808,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 27";
 		rLen = 0;
-		rLoc = 1237;
+		rLoc = 1235;
 		rType = 0;
 		vrLen = 262;
 		vrLoc = 324;
@@ -1811,7 +1818,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 493;
@@ -1831,7 +1838,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1841,7 +1848,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -1861,7 +1868,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 39";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1871,7 +1878,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 39";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1881,7 +1888,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 853;
 		vrLoc = 0;
@@ -1891,7 +1898,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -1901,7 +1908,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1133;
 		vrLoc = 0;
@@ -1911,7 +1918,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -1921,7 +1928,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 36";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 556;
 		vrLoc = 595;
@@ -1931,7 +1938,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 36";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -1951,7 +1958,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 36";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2011,7 +2018,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 1212;
 		vrLoc = 0;
@@ -2021,7 +2028,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2031,7 +2038,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 37";
 		rLen = 0;
-		rLoc = 1442;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2046,7 +2053,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -2056,7 +2063,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -2066,7 +2073,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 0;
@@ -2076,7 +2083,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 554;
 		vrLoc = 672;
@@ -2086,7 +2093,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1224;
 		vrLoc = 0;
@@ -2096,7 +2103,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1224;
 		vrLoc = 0;
@@ -2106,7 +2113,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 552;
 		vrLoc = 672;
@@ -2116,7 +2123,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2136,7 +2143,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 1151;
 		vrLoc = 0;
@@ -2176,7 +2183,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 40";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 2069;
 		rType = 0;
 		vrLen = 520;
 		vrLoc = 631;
@@ -2435,7 +2442,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 29";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1260;
 		vrLoc = 0;
@@ -2459,7 +2466,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 29";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1260;
 		vrLoc = 0;
@@ -2545,7 +2552,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2575,7 +2582,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -2605,7 +2612,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2787,7 +2794,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -2807,7 +2814,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1264;
 		vrLoc = 0;
@@ -2817,7 +2824,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2827,7 +2834,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2837,7 +2844,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2857,7 +2864,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 474;
 		vrLoc = 808;
@@ -2877,7 +2884,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 474;
 		vrLoc = 808;
@@ -2887,7 +2894,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2917,7 +2924,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 0;
@@ -2997,7 +3004,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 467;
 		vrLoc = 815;
@@ -3017,7 +3024,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 46";
 		rLen = 0;
-		rLoc = 1889;
+		rLoc = 2137;
 		rType = 0;
 		vrLen = 467;
 		vrLoc = 815;
@@ -3077,7 +3084,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 31";
 		rLen = 0;
-		rLoc = 956;
+		rLoc = 954;
 		rType = 0;
 		vrLen = 1262;
 		vrLoc = 0;
@@ -3087,7 +3094,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 62";
 		rLen = 0;
-		rLoc = 4588;
+		rLoc = 4586;
 		rType = 0;
 		vrLen = 1314;
 		vrLoc = 0;
@@ -3097,7 +3104,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 67";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 152;
@@ -3107,7 +3114,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 68";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1454;
 		vrLoc = 152;
@@ -3117,7 +3124,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1419;
 		vrLoc = 190;
@@ -3127,7 +3134,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1484;
 		vrLoc = 152;
@@ -3137,7 +3144,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1490;
 		vrLoc = 152;
@@ -3147,7 +3154,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1456;
 		vrLoc = 190;
@@ -3157,7 +3164,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 71";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1523;
 		vrLoc = 153;
@@ -3177,7 +3184,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 65";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 408;
 		vrLoc = 1268;
@@ -3187,7 +3194,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 65";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 1471;
 		vrLoc = 220;
@@ -3207,7 +3214,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 65";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 1471;
 		vrLoc = 220;
@@ -3297,7 +3304,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 71";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 348;
 		vrLoc = 1301;
@@ -3317,7 +3324,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 71";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 348;
 		vrLoc = 1301;
@@ -3337,7 +3344,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 71";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1429;
 		vrLoc = 220;
@@ -3347,7 +3354,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 71";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1429;
 		vrLoc = 220;
@@ -3357,7 +3364,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 72";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 220;
@@ -3367,7 +3374,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 66";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 370;
 		vrLoc = 1301;
@@ -3377,7 +3384,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 66";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 370;
 		vrLoc = 1301;
@@ -3605,7 +3612,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 63";
 		rLen = 0;
-		rLoc = 1677;
+		rLoc = 1675;
 		rType = 0;
 		vrLen = 1402;
 		vrLoc = 190;
@@ -3615,7 +3622,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1460;
 		vrLoc = 153;
@@ -3625,7 +3632,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1464;
 		vrLoc = 153;
@@ -3635,7 +3642,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1064;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1439;
 		vrLoc = 0;
@@ -3655,7 +3662,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1464;
 		vrLoc = 153;
@@ -3665,7 +3672,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 42";
 		rLen = 0;
-		rLoc = 1421;
+		rLoc = 1669;
 		rType = 0;
 		vrLen = 1440;
 		vrLoc = 0;
@@ -3685,7 +3692,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1464;
 		vrLoc = 153;
@@ -3705,7 +3712,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1064;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1439;
 		vrLoc = 0;
@@ -3775,7 +3782,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 1064;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1439;
 		vrLoc = 0;
@@ -3795,7 +3802,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 43";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1495;
 		vrLoc = 0;
@@ -3805,7 +3812,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 43";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1495;
 		vrLoc = 0;
@@ -3815,7 +3822,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 43";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1495;
 		vrLoc = 0;
@@ -3825,7 +3832,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 45";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1573;
 		vrLoc = 0;
@@ -3845,7 +3852,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1259;
+		rLoc = 1507;
 		rType = 0;
 		vrLen = 418;
 		vrLoc = 694;
@@ -3855,7 +3862,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1259;
+		rLoc = 1507;
 		rType = 0;
 		vrLen = 1573;
 		vrLoc = 0;
@@ -3875,7 +3882,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1259;
+		rLoc = 1507;
 		rType = 0;
 		vrLen = 1573;
 		vrLoc = 0;
@@ -3985,7 +3992,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 47";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1616;
 		vrLoc = 0;
@@ -4015,7 +4022,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1259;
+		rLoc = 1507;
 		rType = 0;
 		vrLen = 1573;
 		vrLoc = 0;
@@ -4035,7 +4042,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 47";
 		rLen = 0;
-		rLoc = 1358;
+		rLoc = 1606;
 		rType = 0;
 		vrLen = 1592;
 		vrLoc = 0;
@@ -4065,7 +4072,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 47";
 		rLen = 0;
-		rLoc = 1382;
+		rLoc = 1630;
 		rType = 0;
 		vrLen = 1616;
 		vrLoc = 0;
@@ -4145,7 +4152,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 69";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1464;
 		vrLoc = 153;
@@ -4165,7 +4172,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 40";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1400;
 		vrLoc = 152;
@@ -4175,7 +4182,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 40";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1400;
 		vrLoc = 152;
@@ -4185,7 +4192,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 41";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1398;
 		vrLoc = 132;
@@ -4195,7 +4202,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 39";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1505;
 		vrLoc = 132;
@@ -4205,7 +4212,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 40";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1444;
 		vrLoc = 132;
@@ -4215,7 +4222,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 40";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1444;
 		vrLoc = 132;
@@ -4225,7 +4232,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1414;
 		vrLoc = 132;
@@ -4235,7 +4242,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1414;
 		vrLoc = 132;
@@ -4245,7 +4252,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 41";
 		rLen = 0;
-		rLoc = 1259;
+		rLoc = 1507;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 808;
@@ -4255,7 +4262,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 313;
 		vrLoc = 586;
@@ -4265,7 +4272,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1521;
 		vrLoc = 190;
@@ -4285,7 +4292,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1687;
 		vrLoc = 0;
@@ -4295,7 +4302,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1521;
 		vrLoc = 190;
@@ -4305,7 +4312,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1687;
 		vrLoc = 0;
@@ -4325,7 +4332,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1710;
 		vrLoc = 0;
@@ -4335,7 +4342,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1710;
 		vrLoc = 0;
@@ -4345,7 +4352,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1696;
 		vrLoc = 22;
@@ -4355,7 +4362,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 650;
@@ -4365,7 +4372,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 555;
 		vrLoc = 1155;
@@ -4385,7 +4392,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1483;
 		vrLoc = 302;
@@ -4395,7 +4402,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1716;
 		vrLoc = 2;
@@ -4405,7 +4412,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 62";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1716;
 		vrLoc = 2;
@@ -4425,7 +4432,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 1483;
 		vrLoc = 302;
@@ -4435,7 +4442,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 985;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 1753;
 		vrLoc = 2;
@@ -4445,7 +4452,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 985;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 1788;
 		vrLoc = 2;
@@ -4455,7 +4462,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 985;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 1762;
 		vrLoc = 78;
@@ -4465,7 +4472,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 985;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 1771;
 		vrLoc = 78;
@@ -4475,7 +4482,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 38";
 		rLen = 0;
-		rLoc = 985;
+		rLoc = 1233;
 		rType = 0;
 		vrLen = 1791;
 		vrLoc = 78;
@@ -4485,7 +4492,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 56";
 		rLen = 0;
-		rLoc = 1416;
+		rLoc = 1664;
 		rType = 0;
 		vrLen = 375;
 		vrLoc = 1049;
@@ -4495,7 +4502,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 56";
 		rLen = 0;
-		rLoc = 1416;
+		rLoc = 1664;
 		rType = 0;
 		vrLen = 1749;
 		vrLoc = 127;
@@ -4515,7 +4522,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 56";
 		rLen = 0;
-		rLoc = 1416;
+		rLoc = 1664;
 		rType = 0;
 		vrLen = 1749;
 		vrLoc = 127;
@@ -4545,7 +4552,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 56";
 		rLen = 0;
-		rLoc = 1416;
+		rLoc = 1664;
 		rType = 0;
 		vrLen = 614;
 		vrLoc = 1186;
@@ -4735,7 +4742,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 83";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 1313;
 		vrLoc = 522;
@@ -4745,7 +4752,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 88";
 		rLen = 0;
-		rLoc = 2119;
+		rLoc = 2117;
 		rType = 0;
 		vrLen = 1417;
 		vrLoc = 644;
@@ -4755,7 +4762,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 1449;
 		vrLoc = 645;
@@ -4765,7 +4772,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 1449;
 		vrLoc = 645;
@@ -4785,7 +4792,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 293;
 		vrLoc = 1801;
@@ -4795,7 +4802,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 1449;
 		vrLoc = 645;
@@ -4815,7 +4822,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 56";
 		rLen = 0;
-		rLoc = 1416;
+		rLoc = 1664;
 		rType = 0;
 		vrLen = 1749;
 		vrLoc = 127;
@@ -4825,7 +4832,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 1449;
 		vrLoc = 645;
@@ -4845,7 +4852,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1847;
 		vrLoc = 187;
@@ -4855,7 +4862,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1847;
 		vrLoc = 187;
@@ -4865,7 +4872,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 94";
 		rLen = 0;
-		rLoc = 2126;
+		rLoc = 2124;
 		rType = 0;
 		vrLen = 271;
 		vrLoc = 1823;
@@ -4875,7 +4882,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 610;
 		vrLoc = 1424;
@@ -4885,7 +4892,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1754;
 		vrLoc = 288;
@@ -4905,7 +4912,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1754;
 		vrLoc = 288;
@@ -4925,7 +4932,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2073;
+		rLoc = 2071;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 645;
@@ -4935,7 +4942,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2073;
+		rLoc = 2071;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 645;
@@ -4945,7 +4952,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2073;
+		rLoc = 2071;
 		rType = 0;
 		vrLen = 1435;
 		vrLoc = 667;
@@ -4955,7 +4962,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 73";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 504;
 		vrLoc = 1538;
@@ -4965,7 +4972,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2073;
+		rLoc = 2071;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 1801;
@@ -4975,7 +4982,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 93";
 		rLen = 0;
-		rLoc = 2120;
+		rLoc = 2118;
 		rType = 0;
 		vrLen = 1435;
 		vrLoc = 667;
@@ -4985,7 +4992,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 75";
 		rLen = 0;
-		rLoc = 1763;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1468;
 		vrLoc = 638;
@@ -4995,7 +5002,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2058;
+		rLoc = 2056;
 		rType = 0;
 		vrLen = 1468;
 		vrLoc = 638;
@@ -5005,7 +5012,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 108";
 		rLen = 0;
-		rLoc = 2263;
+		rLoc = 2261;
 		rType = 0;
 		vrLen = 1466;
 		vrLoc = 978;
@@ -5015,7 +5022,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 117";
 		rLen = 0;
-		rLoc = 3657;
+		rLoc = 3655;
 		rType = 0;
 		vrLen = 1556;
 		vrLoc = 1441;
@@ -5025,7 +5032,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 108";
 		rLen = 0;
-		rLoc = 2283;
+		rLoc = 2281;
 		rType = 0;
 		vrLen = 1462;
 		vrLoc = 1474;
@@ -5035,7 +5042,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 108";
 		rLen = 0;
-		rLoc = 2283;
+		rLoc = 2281;
 		rType = 0;
 		vrLen = 1462;
 		vrLoc = 1474;
@@ -5055,7 +5062,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 108";
 		rLen = 0;
-		rLoc = 2283;
+		rLoc = 2281;
 		rType = 0;
 		vrLen = 1462;
 		vrLoc = 1474;
@@ -5075,7 +5082,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 90";
 		rLen = 0;
-		rLoc = 2073;
+		rLoc = 2071;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 1654;
@@ -5165,7 +5172,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 108";
 		rLen = 0;
-		rLoc = 2283;
+		rLoc = 2281;
 		rType = 0;
 		vrLen = 1486;
 		vrLoc = 1450;
@@ -5185,7 +5192,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 32";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1440;
 		vrLoc = 387;
@@ -5195,7 +5202,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 121";
 		rLen = 0;
-		rLoc = 3654;
+		rLoc = 3652;
 		rType = 0;
 		vrLen = 1455;
 		vrLoc = 1493;
@@ -5205,7 +5212,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 123";
 		rLen = 0;
-		rLoc = 3710;
+		rLoc = 3708;
 		rType = 0;
 		vrLen = 1456;
 		vrLoc = 1493;
@@ -5215,7 +5222,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1572;
 		vrLoc = 1280;
@@ -5225,7 +5232,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1572;
 		vrLoc = 1280;
@@ -5235,7 +5242,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1543;
 		vrLoc = 1519;
@@ -5255,7 +5262,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 425;
 		vrLoc = 2323;
@@ -5265,7 +5272,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1515;
 		vrLoc = 1547;
@@ -5285,7 +5292,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1515;
 		vrLoc = 1547;
@@ -5345,7 +5352,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 109";
 		rLen = 0;
-		rLoc = 2252;
+		rLoc = 2250;
 		rType = 0;
 		vrLen = 1543;
 		vrLoc = 1519;
@@ -5365,7 +5372,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 134";
 		rLen = 0;
-		rLoc = 4171;
+		rLoc = 4169;
 		rType = 0;
 		vrLen = 1577;
 		vrLoc = 1596;
@@ -5375,7 +5382,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 70";
 		rLen = 0;
-		rLoc = 1659;
+		rLoc = 1657;
 		rType = 0;
 		vrLen = 1280;
 		vrLoc = 742;
@@ -5385,7 +5392,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 70";
 		rLen = 0;
-		rLoc = 1659;
+		rLoc = 1657;
 		rType = 0;
 		vrLen = 1280;
 		vrLoc = 742;
@@ -5395,7 +5402,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 70";
 		rLen = 0;
-		rLoc = 1659;
+		rLoc = 1657;
 		rType = 0;
 		vrLen = 271;
 		vrLoc = 1533;
@@ -5405,7 +5412,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 35";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1272;
 		vrLoc = 544;
@@ -5415,7 +5422,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 35";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1272;
 		vrLoc = 544;
@@ -5425,7 +5432,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 35";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 358;
 		vrLoc = 1270;
@@ -5435,7 +5442,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 1298;
 		vrLoc = 705;
@@ -5445,7 +5452,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 1423;
 		vrLoc = 1007;
@@ -5455,7 +5462,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 358;
 		vrLoc = 1270;
@@ -5465,7 +5472,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 1399;
 		vrLoc = 1199;
@@ -5485,7 +5492,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 1399;
 		vrLoc = 1199;
@@ -5515,7 +5522,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 85";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2109;
 		rType = 0;
 		vrLen = 1467;
 		vrLoc = 1137;
@@ -5535,7 +5542,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1306;
 		vrLoc = 673;
@@ -5555,7 +5562,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1353;
 		vrLoc = 673;
@@ -5565,7 +5572,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1353;
 		vrLoc = 673;
@@ -5585,7 +5592,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 0;
@@ -5595,7 +5602,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 0;
@@ -5605,7 +5612,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1317;
 		vrLoc = 0;
@@ -5615,7 +5622,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 330;
 		vrLoc = 987;
@@ -5625,7 +5632,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1288;
 		vrLoc = 527;
@@ -5635,7 +5642,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 1288;
 		vrLoc = 527;
@@ -5685,7 +5692,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 74";
 		rLen = 0;
-		rLoc = 2072;
+		rLoc = 2359;
 		rType = 0;
 		vrLen = 1790;
 		vrLoc = 515;
@@ -5695,7 +5702,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 64";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1781;
 		vrLoc = 515;
@@ -5705,7 +5712,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 64";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1808;
 		vrLoc = 515;
@@ -5735,7 +5742,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 64";
 		rLen = 0;
-		rLoc = 1820;
+		rLoc = 2068;
 		rType = 0;
 		vrLen = 1808;
 		vrLoc = 515;
@@ -5805,7 +5812,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 78";
 		rLen = 0;
-		rLoc = 1836;
+		rLoc = 1834;
 		rType = 0;
 		vrLen = 330;
 		vrLoc = 987;
@@ -6275,7 +6282,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 65";
 		rLen = 0;
-		rLoc = 1762;
+		rLoc = 2010;
 		rType = 0;
 		vrLen = 1716;
 		vrLoc = 823;
@@ -6285,7 +6292,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 63";
 		rLen = 0;
-		rLoc = 1762;
+		rLoc = 2010;
 		rType = 0;
 		vrLen = 1629;
 		vrLoc = 808;
@@ -6295,7 +6302,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 63";
 		rLen = 0;
-		rLoc = 1762;
+		rLoc = 2010;
 		rType = 0;
 		vrLen = 1632;
 		vrLoc = 808;
@@ -6309,7 +6316,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 138";
 		rLen = 0;
-		rLoc = 4533;
+		rLoc = 4531;
 		rType = 0;
 		vrLen = 1243;
 		vrLoc = 1883;
@@ -6319,7 +6326,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 63";
 		rLen = 0;
-		rLoc = 1762;
+		rLoc = 2010;
 		rType = 0;
 		vrLen = 1632;
 		vrLoc = 808;
@@ -6329,7 +6336,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 138";
 		rLen = 0;
-		rLoc = 4533;
+		rLoc = 4531;
 		rType = 0;
 		vrLen = 1243;
 		vrLoc = 1883;
@@ -6343,7 +6350,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 146";
 		rLen = 0;
-		rLoc = 4533;
+		rLoc = 4531;
 		rType = 0;
 		vrLen = 1386;
 		vrLoc = 1955;
@@ -6353,7 +6360,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 895;
+		rLoc = 893;
 		rType = 0;
 		vrLen = 1332;
 		vrLoc = 0;
@@ -6363,7 +6370,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 43";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -6373,7 +6380,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 43";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -6393,7 +6400,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 43";
 		rLen = 0;
-		rLoc = 943;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 328;
 		vrLoc = 767;
@@ -6403,7 +6410,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 177";
 		rLen = 0;
-		rLoc = 4250;
+		rLoc = 4248;
 		rType = 0;
 		vrLen = 1486;
 		vrLoc = 3021;
@@ -6413,7 +6420,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3325;
+		rLoc = 3323;
 		rType = 0;
 		vrLen = 1717;
 		vrLoc = 2492;
@@ -6423,7 +6430,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 180";
 		rLen = 0;
-		rLoc = 4319;
+		rLoc = 4317;
 		rType = 0;
 		vrLen = 1542;
 		vrLoc = 2976;
@@ -6433,7 +6440,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4414;
+		rLoc = 4412;
 		rType = 0;
 		vrLen = 1551;
 		vrLoc = 2976;
@@ -6443,7 +6450,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 181";
 		rLen = 0;
-		rLoc = 4347;
+		rLoc = 4345;
 		rType = 0;
 		vrLen = 1556;
 		vrLoc = 2976;
@@ -6453,7 +6460,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4349;
+		rLoc = 4347;
 		rType = 0;
 		vrLen = 1555;
 		vrLoc = 2976;
@@ -6463,7 +6470,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4349;
+		rLoc = 4347;
 		rType = 0;
 		vrLen = 1581;
 		vrLoc = 2976;
@@ -6473,7 +6480,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4349;
+		rLoc = 4347;
 		rType = 0;
 		vrLen = 1516;
 		vrLoc = 3052;
@@ -6483,7 +6490,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4349;
+		rLoc = 4347;
 		rType = 0;
 		vrLen = 360;
 		vrLoc = 2976;
@@ -6493,7 +6500,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 45";
 		rLen = 0;
-		rLoc = 956;
+		rLoc = 954;
 		rType = 0;
 		vrLen = 1327;
 		vrLoc = 2;
@@ -6503,7 +6510,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 187";
 		rLen = 0;
-		rLoc = 4446;
+		rLoc = 4444;
 		rType = 0;
 		vrLen = 1525;
 		vrLoc = 3070;
@@ -6513,7 +6520,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 117";
 		rLen = 0;
-		rLoc = 2525;
+		rLoc = 2523;
 		rType = 0;
 		vrLen = 1737;
 		vrLoc = 2322;
@@ -6523,7 +6530,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 141";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1737;
 		vrLoc = 2322;
@@ -6533,7 +6540,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 42";
 		rLen = 0;
-		rLoc = 883;
+		rLoc = 881;
 		rType = 0;
 		vrLen = 1348;
 		vrLoc = 525;
@@ -6543,7 +6550,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3324;
+		rLoc = 3322;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 1972;
@@ -6553,7 +6560,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 1972;
@@ -6563,7 +6570,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 117";
 		rLen = 0;
-		rLoc = 2561;
+		rLoc = 2559;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 1972;
@@ -6573,7 +6580,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3324;
+		rLoc = 3322;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 1972;
@@ -6583,7 +6590,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 1972;
@@ -6593,7 +6600,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1541;
 		vrLoc = 1972;
@@ -6613,7 +6620,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1541;
 		vrLoc = 1972;
@@ -6663,7 +6670,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 182";
 		rLen = 0;
-		rLoc = 4349;
+		rLoc = 4347;
 		rType = 0;
 		vrLen = 529;
 		vrLoc = 2493;
@@ -6693,7 +6700,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 140";
 		rLen = 0;
-		rLoc = 3295;
+		rLoc = 3293;
 		rType = 0;
 		vrLen = 1541;
 		vrLoc = 1972;
@@ -6713,7 +6720,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 129";
 		rLen = 0;
-		rLoc = 3013;
+		rLoc = 3011;
 		rType = 0;
 		vrLen = 1648;
 		vrLoc = 2201;
@@ -6723,7 +6730,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 129";
 		rLen = 0;
-		rLoc = 3013;
+		rLoc = 3011;
 		rType = 0;
 		vrLen = 1648;
 		vrLoc = 2201;
@@ -6743,7 +6750,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 129";
 		rLen = 0;
-		rLoc = 3013;
+		rLoc = 3011;
 		rType = 0;
 		vrLen = 473;
 		vrLoc = 2802;
@@ -6753,7 +6760,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 128";
 		rLen = 0;
-		rLoc = 3000;
+		rLoc = 2998;
 		rType = 0;
 		vrLen = 1648;
 		vrLoc = 2133;
@@ -6763,7 +6770,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 124";
 		rLen = 0;
-		rLoc = 2806;
+		rLoc = 2804;
 		rType = 0;
 		vrLen = 1655;
 		vrLoc = 2133;
@@ -6773,7 +6780,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 124";
 		rLen = 0;
-		rLoc = 2786;
+		rLoc = 2784;
 		rType = 0;
 		vrLen = 1655;
 		vrLoc = 2133;
@@ -6783,7 +6790,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 124";
 		rLen = 0;
-		rLoc = 2786;
+		rLoc = 2784;
 		rType = 0;
 		vrLen = 1720;
 		vrLoc = 2133;
@@ -6793,7 +6800,7 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 124";
 		rLen = 0;
-		rLoc = 2786;
+		rLoc = 2784;
 		rType = 0;
 		vrLen = 581;
 		vrLoc = 2642;
@@ -6803,10 +6810,80 @@
 		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
 		name = "DepthChargeView.rb: 124";
 		rLen = 0;
-		rLoc = 2786;
+		rLoc = 2784;
 		rType = 0;
 		vrLen = 1622;
 		vrLoc = 2036;
+	};
+	A838FA781040823500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 42";
+		rLen = 0;
+		rLoc = 880;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 607;
+	};
+	A838FA791040823500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 63";
+		rLen = 0;
+		rLoc = 2010;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 808;
+	};
+	A838FA7A1040823500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A838F724103E1FD300C25F12 /* DepthChargeView.rb */;
+		name = "DepthChargeView.rb: 42";
+		rLen = 0;
+		rLoc = 880;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 607;
+	};
+	A838FA7B1040823500C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 27";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 127;
+	};
+	A838FA7D1040828C00C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 28";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 127;
+	};
+	A838FA7F104082A100C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 29";
+		rLen = 0;
+		rLoc = 756;
+		rType = 0;
+		vrLen = 1924;
+		vrLoc = 127;
+	};
+	A838FA80104082D400C25F12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
+		name = "AppController.rb: 78";
+		rLen = 0;
+		rLoc = 2245;
+		rType = 0;
+		vrLen = 1828;
+		vrLoc = 758;
 	};
 	A8D966B91033CB6200B029F2 /* DepthCharge */ = {
 		isa = PBXExecutable;
@@ -6847,9 +6924,9 @@
 	};
 	A8D966C91033CB8600B029F2 /* AppController.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1533, 1344}}";
-			sepNavSelRange = "{1762, 0}";
-			sepNavVisRange = "{808, 1632}";
+			sepNavIntBoundsRect = "{{0, 0}, {1533, 1372}}";
+			sepNavSelRange = "{2245, 0}";
+			sepNavVisRange = "{758, 1828}";
 			sepNavWindowFrame = "{{485, 62}, {1125, 923}}";
 		};
 	};
@@ -6857,7 +6934,7 @@
 		isa = PBXTextBookmark;
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		rLen = 0;
-		rLoc = 2440;
+		rLoc = 2727;
 		rType = 0;
 	};
 	A8D966EE1033D42700B029F2 /* PBXTextBookmark */ = {
@@ -6865,7 +6942,7 @@
 		fRef = A8D966C91033CB8600B029F2 /* AppController.rb */;
 		name = "AppController.rb: 25";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 0;
