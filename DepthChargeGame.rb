@@ -60,7 +60,7 @@ class DepthChargeGame
 		end
 	end
 	
-	def ping_click
+	def ping_click coord
 	end
 
 	def mark_click coord
@@ -80,6 +80,39 @@ class DepthChargeGame
 		end
 	end
 
-	def dcharge_click
+	def dcharge_click coord
+		if !findSpaceIn(coord,charges) && !findSpaceIn(coord,islands)
+			hit = findSpaceIn(coord,mines)
+			charges << {
+				:coord => coord,
+				:hit => hit
+			}
+			
+			if hit
+				status[:mines] -= 1
+				removeMineAt coord
+			else
+				status[:misses] += 1
+			end
+			checkGameOver
+		end
+	end
+	
+	private
+	
+	def checkGameOver
+		if status[:mines] == 0
+			controller.show_message "All mines destroyed. You win!"
+			status[:showMines] = true
+			status[:ignoreClicks] = true
+		elsif status[:misses] > 2
+			controller.show_message "Too many misses. You lose."
+			status[:showMines] = true
+			status[:ignoreClicks] = true
+		end
+	end
+	
+	def removeMineAt coord
+		self.mines = mines.reject{|m| m[:coord] == coord}
 	end
 end
