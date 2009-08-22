@@ -95,7 +95,7 @@ module Util
 			b << blocker[:coord]
 		end
 
-		b.include? c
+		b.to_a.include? c # Set.include? doesn't use ==
 	end
 
 	def getReturns c

@@ -120,13 +120,13 @@ class DepthChargeView <  OSX::NSView
 		@app_controller.game.pings.each do |ping|
 			if ping[:returns].empty?
 				OSX::NSColor.yellowColor.setStroke
-				
-				context.moveTo(width*ping.coord.x, height*ping.coord.y);
-				context.lineTo(width*(ping.coord.x+1), height*(ping.coord.y+1));
-				context.moveTo(width*(ping.coord.x+1), height*ping.coord.y);
-				context.lineTo(width*ping.coord.x, height*(ping.coord.y+1));
-				context.stroke();
-				else
+				path = OSX::NSBezierPath.new
+				path.moveToPoint(OSX::NSPoint.new(width*ping[:coord][:x], height*(12 - ping[:coord][:y])))
+				path.relativeLineToPoint(OSX::NSPoint.new(width, -height))
+				path.relativeMoveToPoint(OSX::NSPoint.new(0, height))
+				path.relativeLineToPoint(OSX::NSPoint.new(-width, -height))
+				path.stroke
+			else
 				ping[:returns].each_with_index do |c, r|
 					dx = corners[r][:x]
 					
@@ -179,7 +179,7 @@ class DepthChargeView <  OSX::NSView
 		digits.each_with_index do |d, n|
 			src_rect = OSX::NSRect.new(@fw*d, 0,
 										@fw, @fh)
-			puts src_rect.inspect
+
 			dest = OSX::NSRect.new(x + n*@fw, y - @fh,
 									@fw, @fh)
 			
