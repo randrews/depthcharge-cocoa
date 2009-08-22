@@ -13,7 +13,8 @@ class AppController < OSX::NSObject
 	ib_outlets :mark_orange, :mark_green, :mark_blue
 	ib_outlets :dc_label, :ping_label, :status_label
 	ib_outlets :depth_charge_view
-
+	ib_outlets :window_controller
+	
 	ib_action :new_game
 	ib_action :ping_push
 	ib_action :dc_push
@@ -22,6 +23,7 @@ class AppController < OSX::NSObject
 	attr_accessor :game
 
 	def new_game
+		@window_controller.showWindow self
 		self.game = DepthChargeGame.new self
 		update_messages
 		@depth_charge_view.setNeedsDisplay true

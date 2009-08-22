@@ -103,7 +103,7 @@ module Util
 			distance(c,m[:coord])
 		end
 		
-		ret.compact.uniq.sort
+		ret.compact.uniq.sort.reject{|n| n==0 }
 	end
 
 	def makeIsland coord
